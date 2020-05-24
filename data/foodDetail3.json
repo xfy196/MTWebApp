@@ -1,0 +1,1434 @@
+{
+    "data": {
+        "outOfRange": 0,
+        "mtWmPoiId": "941011360955218",
+        "dpShopId": 0,
+        "shopStatus": 0,
+        "shopPage": false,
+        "shopInfo": {
+            "shopName": "老乡鸡（天长平安中路苏果店）",
+            "shopPic": "http://p0.meituan.net/waimaipoi/5a0c39ba812392eab562162f1d097684276504.png",
+            "deliveryFee": 4,
+            "deliveryType": 0,
+            "deliveryTime": 0,
+            "deliveryTimeDecoded": "&#xe6e3;&#xea9d;",
+            "deliveryMsg": "",
+            "minFee": 10,
+            "minFeeDecoded": "&#xf261;&#xea9d;.&#xea9d;",
+            "onlinePay": 1,
+            "bulletin": "全国客服电话：4007661777 \n若有订餐问题或店面电话不通畅，可拨打客服电话咨询。 \n\n2003年，老乡鸡第一家快餐店肥西老母鸡在合肥开业；2012年，品牌升级为老乡鸡；2016年老乡鸡入驻南京、武汉；品牌创办至今，老乡鸡在全国已经有800多家直营店，并持续高速发展中。",
+            "discountRestrict": -1,
+            "distance": "&#xe845;&#xe6e3;&#xeec9;m",
+            "bizCode": 0,
+            "shipping_time": ""
+        },
+        "pageCategoryList": [],
+        "categoryList": [
+            {
+                "tag": "100",
+                "activityTag": "",
+                "iconUrl": "http://p1.meituan.net/aichequan/87f966955f693102d67daf2ec44b58411361.png",
+                "categoryName": "热销",
+                "categoryType": 1,
+                "spuList": [
+                    {
+                        "spuName": "肥西老母鸡汤小份",
+                        "unit": "1碗",
+                        "spuId": 925526704,
+                        "tag": "35422477",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/bd0b80e0c7e57fb273af94cd056e1e21752783.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/bd0b80e0c7e57fb273af94cd056e1e21752783.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe56e;&#xea9d;&#xea9d;",
+                        "originPrice": 14,
+                        "currentPrice": 14,
+                        "spuDesc": "1份/口味：咸鲜（主要原料：鸡块、农夫山泉纯净水、精盐）\n180天优质土鸡。精火熬炖，汤清肉白，原汁原味",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;&#xe6e3;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1006268986,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 14,
+                                "currentPrice": 14,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [
+                            {
+                                "pictureUrl": "http://p1.meituan.net/aichequan/c9bcb26d2e342c7bffd0267ae3f129c03286.png",
+                                "width": "120",
+                                "height": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "spuName": "农家蒸蛋",
+                        "unit": "1碗",
+                        "spuId": 698456872,
+                        "tag": "121718298",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/39274fec713bef8b8ced82bb3284f1be570512.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/39274fec713bef8b8ced82bb3284f1be570512.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xea9d;&#xea9d;",
+                        "originPrice": 7,
+                        "currentPrice": 7,
+                        "spuDesc": "1份/口味：酱香（主要原料：鸡蛋、青葱、咸鸡油、清酱汁、蚕豆酱）\n颜色分明，味道香醇、原汁原味，老乡鸡蒸好的蛋，吃起来紧实，有浓浓的蛋香",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 757387916,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 8,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 7,
+                                "currentPrice": 7,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "梅菜扣肉",
+                        "unit": "1碗",
+                        "spuId": 698458531,
+                        "tag": "121718298",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/b0b6b208c5afd3356676acb9b7d50fef830694.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/b0b6b208c5afd3356676acb9b7d50fef830694.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 17,
+                        "currentPrice": 17,
+                        "spuDesc": "1份/口味：咸鲜（主要原料：五花肉、梅干菜、蚝油、老抽）\n厚重香浓的五花肉将梅干菜绵密寡淡的滋味驯化，上等的耗油淋漓出软糯滋润的回味感，各有主次却又相互填补。这份梅菜扣肉蕴藏着一个杂食主义者对荤素融合恰到好处的服帖感",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe6e3;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 757391021,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 5,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 17,
+                                "currentPrice": 17,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "香辣鸡杂",
+                        "unit": "1碗",
+                        "spuId": 1314494305,
+                        "tag": "121718298",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/1b6b05516d78f17b1029376e94e1dc29743287.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/1b6b05516d78f17b1029376e94e1dc29743287.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf16e;&#xea9d;&#xea9d;",
+                        "originPrice": 14,
+                        "currentPrice": 14,
+                        "spuDesc": "1份/口味：香辣（主要原料：鸡胗、鸡心、鸡肺、鸡肝、红辣油、干辣椒、青葱、燕庄麻油）\n惹味儿！红油裹挟着的滋味，协同的精彩，只等你的发掘",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1481310005,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 5,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 14,
+                                "currentPrice": 14,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "香肠蒸豆米",
+                        "unit": "1碗",
+                        "spuId": 698456870,
+                        "tag": "121718298",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/7a39ddbe5c59fb1b55c2d5c75509b2fb764882.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/7a39ddbe5c59fb1b55c2d5c75509b2fb764882.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf16e;&#xea9d;&#xea9d;",
+                        "originPrice": 13,
+                        "currentPrice": 13,
+                        "spuDesc": "1份/口味：咸鲜（主要原料：猪肉香肠、豆米、咸鸡油）\n另类的“江南腌笃鲜”，米饭的好搭档，老乡鸡既保留了时令菜的滋味，更创新了时令菜的口感",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xeec9;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 757387915,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 7,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 13,
+                                "currentPrice": 13,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "葱油菜苔",
+                        "unit": "1碗",
+                        "spuId": 1395829168,
+                        "tag": "121718295",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/3d23987e34e1a44cee48aae95317c066748306.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/3d23987e34e1a44cee48aae95317c066748306.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;&#xea9d;",
+                        "originPrice": 8,
+                        "currentPrice": 8,
+                        "spuDesc": "1份/口味：葱香（主要原料：菜苔、红葱酥油）\n精选标准的菜苔，经焯水后，佐以葱油调味，成品葱香浓郁，菜苔爽口",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe6e3;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1574544217,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 8,
+                                "currentPrice": 8,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "葱油鸡",
+                        "unit": "1碗",
+                        "spuId": 698456873,
+                        "tag": "121718298",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/6ab1cf5b6b80a33db55da60dd489b333736097.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/6ab1cf5b6b80a33db55da60dd489b333736097.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;&#xea9d;",
+                        "originPrice": 17,
+                        "currentPrice": 17,
+                        "spuDesc": "1份/口味：葱香（主要原料：鸡块、葱油、青葱、姜片、极鲜酱油）\n经典的台柱子，180天的农家散养土鸡，历经葱油的洗礼后，鸡肉滑润细嫩，清鲜醇厚，葱香四溢",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 757391019,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 3,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 17,
+                                "currentPrice": 17,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "金汤酸菜鱼",
+                        "unit": "1碗",
+                        "spuId": 1314529298,
+                        "tag": "121718297",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/d45c1513ac2d324322675ae9fffdd295739710.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/d45c1513ac2d324322675ae9fffdd295739710.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;&#xea9d;",
+                        "originPrice": 16,
+                        "currentPrice": 16,
+                        "spuDesc": "1份/口味：酸辣（主要原料：巴沙鱼、酸菜、葱花、藤椒油、芝麻）\n以进口巴沙鱼为主料，配以秘制老坛酸菜等食材煮制而成，酸辣可口",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1481278073,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 1,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 16,
+                                "currentPrice": 16,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "鸡汁辣鱼",
+                        "unit": "1碗",
+                        "spuId": 925526701,
+                        "tag": "121718298",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/d1498074fac003326a716beb1da4dde3479011.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/d1498074fac003326a716beb1da4dde3479011.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;&#xea9d;",
+                        "originPrice": 14,
+                        "currentPrice": 14,
+                        "spuDesc": "1份/口味：香辣（主要原料：鱼块、鲜红椒、清酱汁）\n新鲜的鱼块与醇美的鸡汤相逢，注定会在味蕾呈现出精彩绝伦的滋味，与寡淡相对而言，我们更会营造“精彩”二字",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1006259829,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 2,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 14,
+                                "currentPrice": 14,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "农家小炒肉",
+                        "unit": "1碗",
+                        "spuId": 1704531764,
+                        "tag": "121718296",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/8306fd8258e34a92edf7f6b63f24a27a747111.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/8306fd8258e34a92edf7f6b63f24a27a747111.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;&#xea9d;",
+                        "originPrice": 14,
+                        "currentPrice": 14,
+                        "spuDesc": "1份/口味：香辣（主要原料：五花肉、辣椒）\n农家小炒肉是一道家喻户晓的湘味家常菜，菜品爆香味辣、肉质细嫩",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xeec9;",
+                        "sellStatus": 1,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1935201898,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 1,
+                                "realStock": 0,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 14,
+                                "currentPrice": 14,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": "已售罄"
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "act17",
+                "activityTag": "discount",
+                "iconUrl": "http://p0.meituan.net/aichequan/45662b4d1968fd75bff38de23f6d62641421.png",
+                "categoryName": "折扣",
+                "categoryType": 2,
+                "spuList": [
+                    {
+                        "spuName": "梅菜扣肉可口可乐套餐",
+                        "unit": "1人份",
+                        "spuId": 2531362995,
+                        "tag": "137858714",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/342605763821135675dde56afe92e4ba493600.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/342605763821135675dde56afe92e4ba493600.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf0d1;",
+                        "originPrice": 32,
+                        "currentPrice": 28,
+                        "spuDesc": "1份梅菜扣肉+1份葱油菜苔+1罐摩登罐装可口可乐+1份米饭（主要原料：五花肉、梅干菜、蚝油、老抽、菜苔、红葱酥油）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2864262977,
+                                "spec": "标准(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 8,
+                                "activityStock": 8,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 32,
+                                "currentPrice": 28,
+                                "boxFee": 2,
+                                "skuPromotionInfo": "8.75折",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "8.75折",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "137858714",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "超值便当",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "梅菜扣肉可口可乐套餐",
+                        "unit": "1人份",
+                        "spuId": 2531362995,
+                        "tag": "137858714",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/342605763821135675dde56afe92e4ba493600.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/342605763821135675dde56afe92e4ba493600.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf0d1;",
+                        "originPrice": 32,
+                        "currentPrice": 28,
+                        "spuDesc": "1份梅菜扣肉+1份葱油菜苔+1罐摩登罐装可口可乐+1份米饭（主要原料：五花肉、梅干菜、蚝油、老抽、菜苔、红葱酥油）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2864262977,
+                                "spec": "标准(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 8,
+                                "activityStock": 8,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 32,
+                                "currentPrice": 28,
+                                "boxFee": 2,
+                                "skuPromotionInfo": "8.75折",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "8.75折",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "118279482",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "月月上新",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "剁椒嫩仔鸡",
+                        "unit": "1碗",
+                        "spuId": 2465876380,
+                        "tag": "118279482",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/60b7491dc49f0ab62105444261cc57b2214659.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/60b7491dc49f0ab62105444261cc57b2214659.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe56e;&#xf16e;",
+                        "originPrice": 14,
+                        "currentPrice": 14,
+                        "spuDesc": "1份/口味：剁椒（主要原料：嫩仔鸡、剁椒、土豆粉）\n仔鸡肉质鲜嫩，搭配剁椒的香辣味和鲜辣味，鸡肉鲜嫩多汁，是很好的下饭菜",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 2794181009,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 13,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 14,
+                                "currentPrice": 14,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "35422477",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "招牌鸡汤",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "肥西老母鸡汤大份",
+                        "unit": "1碗",
+                        "spuId": 698458535,
+                        "tag": "35422477",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/fee627a7f61573320eed01292696f655759834.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/fee627a7f61573320eed01292696f655759834.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf6ab;",
+                        "originPrice": 66,
+                        "currentPrice": 66,
+                        "spuDesc": "1份/口味：咸鲜（主要原料：鸡块、农夫山泉纯净水、精盐）\n180天优质土鸡。精火熬炖，汤清肉白，原汁原味",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 757391024,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 10,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 66,
+                                "currentPrice": 66,
+                                "boxFee": 2,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [
+                            {
+                                "pictureUrl": "http://p1.meituan.net/aichequan/c9bcb26d2e342c7bffd0267ae3f129c03286.png",
+                                "width": "120",
+                                "height": "30"
+                            }
+                        ]
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718298",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "畅销必点",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "梅菜扣肉",
+                        "unit": "1碗",
+                        "spuId": 698458531,
+                        "tag": "121718298",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/b0b6b208c5afd3356676acb9b7d50fef830694.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/b0b6b208c5afd3356676acb9b7d50fef830694.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 17,
+                        "currentPrice": 17,
+                        "spuDesc": "1份/口味：咸鲜（主要原料：五花肉、梅干菜、蚝油、老抽）\n厚重香浓的五花肉将梅干菜绵密寡淡的滋味驯化，上等的耗油淋漓出软糯滋润的回味感，各有主次却又相互填补。这份梅菜扣肉蕴藏着一个杂食主义者对荤素融合恰到好处的服帖感",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe6e3;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 757391021,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 5,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 17,
+                                "currentPrice": 17,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718297",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "下饭推荐",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "徽州涨蛋",
+                        "unit": "1碗",
+                        "spuId": 2114725337,
+                        "tag": "121718297",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/eb3976c99580345f0cac599a37999718740890.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/eb3976c99580345f0cac599a37999718740890.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xf6ab;",
+                        "originPrice": 13,
+                        "currentPrice": 13,
+                        "spuDesc": "1份/口味：咸鲜（主要原料：鸡蛋饼、木耳）\n成品色泽金黄油润，蛋品膨松鲜嫩，鲜香美味，油而不腻",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 2409480074,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 1,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 13,
+                                "currentPrice": 13,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718295",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "健康蔬食",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "香脆木耳",
+                        "unit": "1碗",
+                        "spuId": 698456868,
+                        "tag": "121718295",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/e1cfcebaadf26f5acc67c0678a8c5d3f737179.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/e1cfcebaadf26f5acc67c0678a8c5d3f737179.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xeec9;",
+                        "originPrice": 8,
+                        "currentPrice": 8,
+                        "spuDesc": "1份/口味：咸鲜（主要原料：木耳、红辣椒、青葱）\n酸酸甜甜就是香脆木耳",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 757391014,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 5,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 8,
+                                "currentPrice": 8,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "39363762",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "主食【需单点】",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "米饭",
+                        "unit": "1碗",
+                        "spuId": 2135003672,
+                        "tag": "39363762",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/65857f8a5affbf9aa5ac8b374e2f4f10745723.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/65857f8a5affbf9aa5ac8b374e2f4f10745723.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;&#xea9d;&#xea9d;",
+                        "originPrice": 2,
+                        "currentPrice": 2,
+                        "spuDesc": "【强调】本店所有单点菜品均不含米饭，仅便当及套餐包含米饭\n1份/口味：原味（主要原料：大米、大豆油）\n老乡鸡精选黑龙江省响水大米，颗粒丰满，质地坚硬，色泽青白、透明纯净，焖出的饭，汤似鲜乳，米如油注，饭质柔软，香味袭人。具有软糯、微甜、芳香的特征，彰显出米饭的原色原香",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;&#xeec9;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 2431556328,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 0,
+                                "realStock": 9984,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 2,
+                                "currentPrice": 2,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718294",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "开胃小菜",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "咸鸭蛋",
+                        "unit": "1个",
+                        "spuId": 698458525,
+                        "tag": "121718294",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/cd3251f04e4df51b7bb07e60ef5eeb7b746032.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/cd3251f04e4df51b7bb07e60ef5eeb7b746032.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe845;&#xe845;",
+                        "originPrice": 3,
+                        "currentPrice": 3,
+                        "spuDesc": "1个/口味：咸味（主要原料：鸭蛋、精盐）\n蛋白柔嫩，颜色细而油多，食后颇有“曾经沧海难为水，他乡咸鸭蛋，我实在瞧不上”的感慨",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 757391013,
+                                "spec": "标准(1个)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 3,
+                                "currentPrice": 3,
+                                "boxFee": 0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718293",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "缤纷饮料",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "摩登罐装芬达",
+                        "unit": "1罐",
+                        "spuId": 1632419633,
+                        "tag": "121718293",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/a551652b100d9b07d0c7e39d043d7fa6699729.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/a551652b100d9b07d0c7e39d043d7fa6699729.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeef2;",
+                        "originPrice": 5,
+                        "currentPrice": 5,
+                        "spuDesc": "1罐/净含量：330ml",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1858219494,
+                                "spec": "标准(1罐)",
+                                "soldStatus": 0,
+                                "realStock": 15,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 5,
+                                "currentPrice": 5,
+                                "boxFee": 0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "72768297",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "早餐组合",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "儿童成长餐",
+                        "unit": "1人份",
+                        "spuId": 1314685152,
+                        "tag": "72768297",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/878d08efb59175b457348eb8f155a1dd680540.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/878d08efb59175b457348eb8f155a1dd680540.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf16e;&#xf6ab;",
+                        "originPrice": 8,
+                        "currentPrice": 8,
+                        "spuDesc": "9个特色鸡汤馄饨+1个奶黄鸡包+1个水煮蛋（主要原料：小麦面粉、猪前夹肉、奶黄酱、鸡蛋）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;",
+                        "sellStatus": 1,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1481563716,
+                                "spec": "标准(1人份)",
+                                "soldStatus": 1,
+                                "realStock": 0,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 8,
+                                "currentPrice": 8,
+                                "boxFee": 1,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": "已售罄"
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718303",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "鸡汤馄饨",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "特色鸡汤馄饨",
+                        "unit": "1碗",
+                        "spuId": 1314685150,
+                        "tag": "121718303",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/244ece8ca967a7839490e35a24f77b6a755732.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/244ece8ca967a7839490e35a24f77b6a755732.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe56e;&#xf261;",
+                        "originPrice": 9,
+                        "currentPrice": 9,
+                        "spuDesc": "1份/口味：咸鲜（主要原料：小麦面粉、猪前夹肉）\n鸡汤馄饨是老乡鸡的一道拿手主食，色泽鲜艳，筋滑嫩爽。口味鲜而不腻，味道纯正",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 3,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1481563713,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 1,
+                                "realStock": 2,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 9,
+                                "currentPrice": 9,
+                                "boxFee": 1,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": "非可售时间",
+                        "statusRemindList": [
+                            {
+                                "title": "每周可售日期",
+                                "content": "周一，周二，周三，周四，周五\n周六，周日"
+                            },
+                            {
+                                "title": "每日可售时间",
+                                "content": "06:30-10:30"
+                            }
+                        ]
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718302",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "现熬粥饮",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "现熬豆粥",
+                        "unit": "1碗",
+                        "spuId": 925526705,
+                        "tag": "121718302",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/a45a4830fdf18aae59acd04b373c405c765024.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/a45a4830fdf18aae59acd04b373c405c765024.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xe6e3;",
+                        "originPrice": 4,
+                        "currentPrice": 4,
+                        "spuDesc": "1份/口味：原味（主要原料：米、糯米、绿豆或麻豆）\n坚持每天现熬，以优质白米耐心熬煮数小时而成，成品具有软、绵、滑的特征",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 1,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1006232289,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 1,
+                                "realStock": 0,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 4,
+                                "currentPrice": 4,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": "已售罄"
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718301",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "暖心蒸点",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "鸡汁汤包",
+                        "unit": "4个",
+                        "spuId": 698456877,
+                        "tag": "121718301",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/1a0d4bdd6d4a904cca9869af364fd7c1788416.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/1a0d4bdd6d4a904cca9869af364fd7c1788416.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf16e;&#xeef2;",
+                        "originPrice": 4,
+                        "currentPrice": 4,
+                        "spuDesc": "4个/口味：咸鲜（主要原料：小麦面粉、猪前夹肉）\n精选双汇前夹肉，佐以经精心熬制之特色鸡汤制成馅心，金龙鱼面粉制皮",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe6e3;",
+                        "sellStatus": 1,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 757387923,
+                                "spec": "标准(4个)",
+                                "soldStatus": 1,
+                                "realStock": 0,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 4,
+                                "currentPrice": 4,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": "已售罄"
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718300",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "煎炸美味",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "现炸大油条",
+                        "unit": "1个",
+                        "spuId": 2465976999,
+                        "tag": "121718300",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/3ec033ebbf9caa428ae0c92b954ad7c7188636.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/3ec033ebbf9caa428ae0c92b954ad7c7188636.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf16e;&#xf261;",
+                        "originPrice": 3,
+                        "currentPrice": 3,
+                        "spuDesc": "1根/口味：咸鲜（主要原料：小麦面粉、色拉油）\n油条是一种古老的中式面食，口感松脆有韧劲，是中国传统的早点之一",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 3,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 2794241491,
+                                "spec": "标准(1个)",
+                                "soldStatus": 1,
+                                "realStock": 10,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 3,
+                                "currentPrice": 3,
+                                "boxFee": 0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": "非可售时间",
+                        "statusRemindList": [
+                            {
+                                "title": "每周可售日期",
+                                "content": "周一，周二，周三，周四，周五\n周六，周日"
+                            },
+                            {
+                                "title": "每日可售时间",
+                                "content": "06:30-10:30"
+                            }
+                        ]
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718299",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "营养蛋品",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "水煮蛋",
+                        "unit": "1个",
+                        "spuId": 1314721684,
+                        "tag": "121718299",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/bdc64535e2a4faeffa6709eb8113ce60695457.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/bdc64535e2a4faeffa6709eb8113ce60695457.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;",
+                        "originPrice": 2,
+                        "currentPrice": 2,
+                        "spuDesc": "1个/口味：原味（主要原料：鸡蛋）\n烹饪简单，营养丰富",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 1,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1481310006,
+                                "spec": "标准(1个)",
+                                "soldStatus": 1,
+                                "realStock": 0,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 2,
+                                "currentPrice": 2,
+                                "boxFee": 0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": "已售罄"
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "121718296",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "家常现炒",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "酸辣土豆丝",
+                        "unit": "1碗",
+                        "spuId": 2252823877,
+                        "tag": "121718296",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/94b73d92821690d832cbfb2cead68ce3695991.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/94b73d92821690d832cbfb2cead68ce3695991.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;&#xea9d;",
+                        "originPrice": 9,
+                        "currentPrice": 9,
+                        "spuDesc": "1份/口味：酸辣（主要原料：土豆、辣椒、葱花）\n家常菜，家常味，虽然是一道普通的菜肴，老乡鸡也会为您用心而做，愿意为您囿于昼夜、厨房、与爱",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;",
+                        "sellStatus": 1,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 2558264625,
+                                "spec": "标准(1碗)",
+                                "soldStatus": 1,
+                                "realStock": 0,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 9,
+                                "currentPrice": 9,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1
+                            }
+                        },
+                        "statusDesc": "已售罄"
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            }
+        ],
+        "shoppingCart": {
+            "minFeeForCartTip": 7,
+            "activityInfo": {
+                "type": 0,
+                "content": "",
+                "policy": "",
+                "onlyOnline": true
+            },
+            "promptText": ""
+        }
+    },
+    "code": 0,
+    "msg": "成功"
+}

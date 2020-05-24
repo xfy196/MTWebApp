@@ -1,0 +1,38 @@
+.pull-refresh,.load-more {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pull-refresh img, .load-more img {
+    width: 20px;
+    transition: 200ms;
+}
+
+.load-more img {
+    transform:  rotate(180deg);
+}
+.pull-refresh img.down {
+    transform: rotate(0deg);
+}
+.load-more img.up {
+    transform: rotate(0deg);
+}
+@keyframes active{
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.pull-refresh img.active, .load-more img.active {
+    animation: active, 1000ms infinite linear;
+}
+
+.pull-refresh span, .load-more span {
+    font-size: 13px;
+    color: #555555;
+    margin-left: 5px;
+}

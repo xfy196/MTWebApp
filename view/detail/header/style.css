@@ -1,0 +1,77 @@
+header {
+  background: rgb(46, 47, 59);
+  color: #ffffff;
+}
+header .return {
+  height: 50px;
+  width: 100%;
+  height: 100%;
+}
+header .return-icon {
+  display: block;
+  width: 40px;
+  height: 50px;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAASCAYAAAEVsH/dAAAABGdBTUEAALGPC/xhBQAAAMJJREFUKBXFkrEOwjAMRFMkFujKB1Ti+5GYGahA/AMDS6X+AywovEu5BApCMGHpYvt8dtMkIcZYBRvJJbBsTIw9tT5zJDEnKYBoM0Oyq1hqmIWmNtasSMqY3EBAoX0pQtRA1khRErdCThzbi7hSWJpIHmIGZN8X5kNDnOZREHvQ/UBISssxtziA3IITeN6SBfYItHcdkKwH/2zg87qJA5CdQTkg7RlCAh2UrAPDE3j4oc+C+5R16n83wZPsEZbXbHLkbwE+Cry82MV2AAAAAElFTkSuQmCC)
+    no-repeat;
+  background-size: 20% 30%;
+  background-position: center;
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.business-info {
+  padding-bottom: 20px;
+  padding-left: 95px;
+  padding-top: 5px;
+  box-sizing: border-box;
+  position: relative;
+  height: 80px;
+  background-color: #2e2f3b;
+}
+.business-info .business-img {
+  position: absolute;
+  left: 10px;
+  top: 5px;
+  width: 85px;
+  height: 64px;
+  box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 2px;
+  background-size: 85px 64px;
+  background-repeat: no-repeat;
+  background-image: url("https://p1.meituan.net/xianfu/33c48a92a31a21e4bf32d3aa7c1c5c0d16649.jpg");
+}
+.business-info .info {
+  font-size: 12px;
+  height: 16px;
+  line-height: 16px;
+  height: 75px;
+  padding-left: 10px;
+}
+.business-info .info .i-distance {
+  line-height: 16px;
+  height: 16px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  position: relative;
+}
+.business-info .info .i-distance .time {
+  margin-right: 8.5px;
+  position: relative;
+}
+.business-info .info .i-distance .time::after {
+  content: " ";
+  display: inline-block;
+  position: absolute;
+  width: 1px;
+  height: 12px;
+  background-color: #fff;
+  -webkit-transform: scale(0.5);
+  transform: scale(0.5);
+  right: -4px;
+  top: 3px;
+}
+.business-info .info .i-notice {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  padding-right: 10px;
+}

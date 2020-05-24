@@ -1,0 +1,130 @@
+.shop_list {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.s-item {
+  display: flex;
+  padding: 0 10px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+.s-item .logo {
+  width: 76px;
+  height: 57px;
+  margin-right: 10px;
+}
+.s-item .logo img {
+  width: 100%;
+  height: 100%;
+}
+.s-info {
+  flex: 1 0;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.s-info .s-i-title {
+  font-size: 16px;
+  color: #333333;
+  font-weight: 600;
+  line-height: 1.4;
+  width: 80%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.s-info .evaluate-sale-time {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  margin-top: 4px;
+}
+.s-info .distribution-price {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+.distribution-price .l-con .v-line::after {
+  content: "";
+  display: inline-block;
+  margin: 0 3px;
+  height: 6px;
+  width: 1px;
+  background: #cccccc;
+  vertical-align: middle;
+}
+.distribution-price .r-con {
+    display: none;
+}
+.distribution-price .r-con.isExpress {
+    display: block;
+}
+.distribution-price .r-con span {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAbCAMAAADLcmj5AAAAclBMVEUAAAD/0WL/0mP/1Wr/0WEzMzM4NjPEo1PuxFyDcEVBPjVrXj/IplSfhkv3yl+PekdJQzdQSTn8zmDOq1Z/bUTatVnTrlffuFqkikxlWT5cUTt6akO8nVHqwFyVf0nzx16JdUazlU92Z0JxYkHlvFurkE6nl+XsAAAABHRSTlMAw44MjMy3bQAAAhFJREFUSMe109mSojAUgOFZTiALISSoJGFrQN//FSeLSNKlc9X8FydlqZ+nov569gd+vPNkOE+G82Q4T4Zv8tfi54PAfyMaXqmrnzWf3bwRldL5zrzxT8oJQhXNquAZTeihGDwtL26uLLUSuW1cKAzqRgtQFlVSUQKA6Pt+RaaP+T2WQvuFUQUjajMaXuEyZEw8sachNk1uBJoLIUwhnsW9aQeam4lvlPM6p/PWFWIJTS6RjhEDWRhgY4wh6wZ+T1coaYj0g/ikJJOn1c0n+9ueSj4AXSEpp+vOx1g46kgvwkULKbinMfoWVlrrAXwdun+kcWzb4nnctbaX/UJqF6dzvQeKMclgIYRsqHdTv6UlypI7PTRjdtf2AlmcweBQ2ZCPNI4NQ771QitI6TsyX7HpRbtGysfPdx0zJP2FjIyWkNHV5Rm1Kb3SURL1gdZFCKF46kAb67+c/a7TOO0Ouibu2a4x+D09tq5KyqZvfWOg7wqwmChP6DrMqaiOu75JWnrByi6ls+aedm0xqfQvowjh80ErK0U7suYKMWyb+8Du8e1s+EBjTpsSoG2kxpG+Ju1bz8tWoNfOszQkrPy93weNhUV0qsPLeVNYMUKJsg6gXiwyccFVKqgaag3zGYt3+e9BKyMq9XpQiU1BayHJtpDUrlM4H/5i6uvw0Jq79CE7+oS8HOkz5EifIUf6DDl0nvwPQbVDBkyZ9SUAAAAASUVORK5CYII=);
+  background-repeat: no-repeat;
+  width: 50px;
+  height: 15px;
+  background-size: contain;
+  float: right;
+}
+.s-info .stars {
+  display: flex;
+  align-items: center;
+}
+.s-info .stars .star {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAABICAMAAADbJ8U9AAAAmVBMVEUAAADl5eX/1lX/1FX/1Vb/2VXn5+fm5ubq5tz/11bl5eXl5eX/1VXm5ubn5+f/1V//1FT/1FX/1lXl5eXl5eX/2Fbq6urk5OTk5OT/1VT/1lX/1FXl5eX/11Tl5eXl5eXl5eX/1VT/1VTl5eX/1Vbm5ub/01j/1VTl5eX/1Vfl5eX/1lTk5OTl5eX33Z7/1VXk5OT/1FT13J3Q9qRrAAAAMHRSTlMAvpb7aDg5bR8f85pyZ0IX9L23k1lBF/rk5MChoIeGdGBgW05OKCjsxVXsxbV+fn5ImA76AAABIklEQVQ4y9WSyXLCMBBEJRmMjRdwjM2+L9mTGf//x0UpyIAmo4ILB/qicr9q66Cn7pNvT9/GSgZPWHgGiG15gFjIAz457FJTjPGY8cSku8MRtJCndZqs5d5mE1z2a3XO65kEG2rde1J1GzAEjAsmBN5d8IzYn8fzvj2cvoeB6f2eJsD4ElTTv894WqkHyZfPqyb3eNVoj1cNhOLAAi0OLIBQ9MoCGOlkud2zZ23glA555YLM9YrAyvWKwMDVh0BH3QYMgYR5ReBF8mrRBeiKXtXlECLZq2iWqwfJp6cPIZeBBu0ZgOzVhwVaHvDJfrtM9AhsmFcZUJhXK2q4VwOgkFeccK8y9v/roCTAvNIEmFdvVqhF9N+rGoZlLXmVz6I7evUDNbpOpWFLPZYAAAAASUVORK5CYII=)
+    no-repeat;
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin-right: 2px;
+  background-position: 40% 5.66%;
+  background-size: 126% 379%;
+}
+.s-info .stars .star-num {
+  margin-left: 2px;
+  margin-right: 8px;
+}
+.s-info .evaluate-sale-time .l-con,
+.s-info .evaluate-sale-time .r-con {
+  display: flex;
+}
+.s-info .evaluate-sale-time .r-con .time {
+  margin-right: 4px;
+}
+.s_title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.4;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.s_title::before {
+  content: "";
+  display: inline-block;
+  width: 60px;
+  height: 1px;
+  background-color: #666666;
+  transform-origin: 100% 50%;
+  transform: scale(0.5);
+  margin-right: 3px;
+}
+.s_title::after {
+  content: "";
+  display: inline-block;
+  width: 60px;
+  height: 1px;
+  background-color: #666666;
+  transform-origin: 0% 50%;
+  transform: scale(0.5);
+  margin-left: 3px;
+}

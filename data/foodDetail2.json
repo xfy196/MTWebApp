@@ -1,0 +1,2383 @@
+{
+    "data": {
+        "outOfRange": 0,
+        "mtWmPoiId": "910499913283067",
+        "dpShopId": 0,
+        "shopStatus": 0,
+        "shopPage": false,
+        "shopInfo": {
+            "shopName": "华莱士·全鸡汉堡（仁和店）",
+            "shopPic": "http://p1.meituan.net/waimaipoi/adf54581bba7095a1c166481eba4245a42920.jpg",
+            "deliveryFee": 4.0,
+            "deliveryType": 0,
+            "deliveryTime": 0,
+            "deliveryTimeDecoded": "&#xe6e3;&#xea9d;",
+            "deliveryMsg": "",
+            "minFee": 20.0,
+            "minFeeDecoded": "&#xf16e;&#xea9d;.&#xea9d;",
+            "onlinePay": 1,
+            "bulletin": "华莱士全鸡汉堡,全国门店一万家|全鸡配汉堡,华莱士吃好！",
+            "discountRestrict": -1,
+            "distance": "&#xf16e;&#xea9d;&#xe56e;m",
+            "bizCode": 0,
+            "shipping_time": ""
+        },
+        "pageCategoryList": [],
+        "categoryList": [
+            {
+                "tag": "100",
+                "activityTag": "",
+                "iconUrl": "http://p1.meituan.net/aichequan/87f966955f693102d67daf2ec44b58411361.png",
+                "categoryName": "热销",
+                "categoryType": 1,
+                "spuList": [
+                    {
+                        "spuName": "墨西哥鸡肉卷",
+                        "unit": "约1克",
+                        "spuId": 1352671596,
+                        "tag": "93823701",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproductdwm/3b5fa73f5051c622bc3f567e53c88cd2129019.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproductdwm/3b5fa73f5051c622bc3f567e53c88cd2129019.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf6ab;&#xea9d;&#xea9d;",
+                        "originPrice": 11.0,
+                        "currentPrice": 11.0,
+                        "spuDesc": "选用超大无骨鸡肉，精心制作而成，配上新鲜的沙拉和番茄酱",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;&#xe56e;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523803678,
+                                "spec": "(约1克)",
+                                "soldStatus": 0,
+                                "realStock": 9991,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 11.0,
+                                "currentPrice": 11.0,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "香辣鸡腿堡",
+                        "unit": "1个",
+                        "spuId": 1352721636,
+                        "tag": "93823701",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/c783b90b39b766dc724cdda53085c2af132018.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/c783b90b39b766dc724cdda53085c2af132018.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf6ab;&#xea9d;&#xea9d;",
+                        "originPrice": 11.0,
+                        "currentPrice": 11.0,
+                        "spuDesc": "整块无骨鸡腿肉，精选沙拉酱制作而成",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523725687,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": 9988,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 11.0,
+                                "currentPrice": 11.0,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "香辣鸡腿堡+墨西哥鸡肉卷+上校鸡块5块+橙C",
+                        "unit": "1人份",
+                        "spuId": 1398456914,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/e67c9ba3a09853d45c2f1a4d0564313f128853.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/e67c9ba3a09853d45c2f1a4d0564313f128853.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xea9d;&#xea9d;",
+                        "originPrice": 21.0,
+                        "currentPrice": 19.9,
+                        "spuDesc": "经典搭配，样样精品",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;&#xe6e3;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577179925,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9990,
+                                "activityStock": 9990,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 21.0,
+                                "currentPrice": 19.9,
+                                "boxFee": 2.99,
+                                "skuPromotionInfo": "9.48折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.48折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "1元爆款香辣鸡腿堡",
+                        "unit": "1个",
+                        "spuId": 1817103281,
+                        "tag": "93823701",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/35b2ad6665e18d1ca598230cd2b314b5422413.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/35b2ad6665e18d1ca598230cd2b314b5422413.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xea9d;&#xea9d;",
+                        "originPrice": 9.9,
+                        "currentPrice": 1.0,
+                        "spuDesc": "感恩所有支持滨湖店华莱士的亲们，小华仔会继续用心努力，有任何问题随时联系商家18226470318，一定会为您解决，再次感谢！",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2066310219,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": 2,
+                                "restrict": 1,
+                                "originPrice": 9.9,
+                                "currentPrice": 1.0,
+                                "boxFee": 1.99,
+                                "skuPromotionInfo": "1.01折 限1份 2份起购",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "1.01折 限1份 2份起购",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "爆款套餐：香辣鸡腿汉堡+经典盖世鸡肉卷+香辣鸡翅+小可",
+                        "unit": "1人份",
+                        "spuId": 1924930470,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/cb69282aa07afcb142b74c0a9b84e91c361776.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/cb69282aa07afcb142b74c0a9b84e91c361776.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 27.0,
+                        "currentPrice": 25.9,
+                        "spuDesc": "超值爆款",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf6ab;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190860812,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 27.0,
+                                "currentPrice": 25.9,
+                                "boxFee": 1.9,
+                                "skuPromotionInfo": "9.59折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.59折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "香辣鸡翅",
+                        "unit": "1个",
+                        "spuId": 1352688057,
+                        "tag": "93823702",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproductdwm/18be0beef254029e605863e98628fbf6125786.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproductdwm/18be0beef254029e605863e98628fbf6125786.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 10.8,
+                        "currentPrice": 10.8,
+                        "spuDesc": "精选鸡翅和翅根，标准配比制作而成，香辣可口",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf0d1;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523923828,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": 9997,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 10.8,
+                                "currentPrice": 10.8,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "劲爆鸡米花",
+                        "unit": "约100克",
+                        "spuId": 1352671601,
+                        "tag": "93823702",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/0102f237cf9db2804ade5203b945e8c3123425.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/0102f237cf9db2804ade5203b945e8c3123425.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 9.9,
+                        "currentPrice": 9.9,
+                        "spuDesc": "精选小块鸡肉，按照标准配准制作而成",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;&#xf261;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523803682,
+                                "spec": "(约100克)",
+                                "soldStatus": 0,
+                                "realStock": 9997,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 9.9,
+                                "currentPrice": 9.9,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "香酥鸡腿",
+                        "unit": "约10克",
+                        "spuId": 1352811712,
+                        "tag": "93823702",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/cb57a94707cdc4f158f1b81fcfe1a83c277770.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/cb57a94707cdc4f158f1b81fcfe1a83c277770.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 10.8,
+                        "currentPrice": 10.8,
+                        "spuDesc": "精选大鸡腿，配比秘方制作而成",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523893527,
+                                "spec": "(约10克)",
+                                "soldStatus": 0,
+                                "realStock": 9994,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 10.8,
+                                "currentPrice": 10.8,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "新奥尔良烤翅",
+                        "unit": "1人份",
+                        "spuId": 1352671602,
+                        "tag": "93823702",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproductdwm/db12d8ba729e3c23785e8a6f5415dd91109311.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproductdwm/db12d8ba729e3c23785e8a6f5415dd91109311.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 10.8,
+                        "currentPrice": 10.8,
+                        "spuDesc": "精选全翅秘制烤制而成，鲜嫩可口",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xeec9;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523725691,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9996,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 10.8,
+                                "currentPrice": 10.8,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "至尊奥尔良板烧堡",
+                        "unit": "1个",
+                        "spuId": 1352811697,
+                        "tag": "93823701",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/7b4421aa12348112328b187c1436e1a5118856.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/7b4421aa12348112328b187c1436e1a5118856.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 11.0,
+                        "currentPrice": 11.0,
+                        "spuDesc": "精选板烧腿肉烤制而成",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523725689,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": 9993,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 11.0,
+                                "currentPrice": 11.0,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "act17",
+                "activityTag": "discount",
+                "iconUrl": "http://p0.meituan.net/aichequan/45662b4d1968fd75bff38de23f6d62641421.png",
+                "categoryName": "折扣",
+                "categoryType": 2,
+                "spuList": [
+                    {
+                        "spuName": "1元爆款香辣鸡腿堡",
+                        "unit": "1个",
+                        "spuId": 1817103281,
+                        "tag": "93823701",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/35b2ad6665e18d1ca598230cd2b314b5422413.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/35b2ad6665e18d1ca598230cd2b314b5422413.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xea9d;&#xea9d;",
+                        "originPrice": 9.9,
+                        "currentPrice": 1.0,
+                        "spuDesc": "感恩所有支持滨湖店华莱士的亲们，小华仔会继续用心努力，有任何问题随时联系商家18226470318，一定会为您解决，再次感谢！",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2066310219,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": 2,
+                                "restrict": 1,
+                                "originPrice": 9.9,
+                                "currentPrice": 1.0,
+                                "boxFee": 1.99,
+                                "skuPromotionInfo": "1.01折 限1份 2份起购",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "1.01折 限1份 2份起购",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "约惠桶",
+                        "unit": "2人份",
+                        "spuId": 2467891968,
+                        "tag": "130958263",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/045d38d917b9576ad769ddbaa3b560d261774.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/045d38d917b9576ad769ddbaa3b560d261774.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;",
+                        "originPrice": 48.0,
+                        "currentPrice": 46.8,
+                        "spuDesc": "原味香酥鸡3块+香辣鸡腿堡1个+上校鸡块1份+香芋派1个+2杯冰摇柠檬气泡茶2杯",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2796379363,
+                                "spec": "(2人份)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 9999,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 48.0,
+                                "currentPrice": 46.8,
+                                "boxFee": 1.99,
+                                "skuPromotionInfo": "9.75折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.75折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [
+                            {
+                                "pictureUrl": "http://p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                                "width": "60",
+                                "height": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "spuName": "一起吃堡双人套餐",
+                        "unit": "2人份",
+                        "spuId": 2455203428,
+                        "tag": "130958263",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/89498e5c84c73dde1affef3e807777f5278410.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/89498e5c84c73dde1affef3e807777f5278410.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xf6ab;",
+                        "originPrice": 26.5,
+                        "currentPrice": 25.8,
+                        "spuDesc": "2个香辣鸡腿堡+薯条+2杯中可",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2782416308,
+                                "spec": "(2人份)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 9999,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 26.5,
+                                "currentPrice": 25.8,
+                                "boxFee": 0.99,
+                                "skuPromotionInfo": "9.74折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.74折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "春日辣堡套餐",
+                        "unit": "1人份",
+                        "spuId": 2455128747,
+                        "tag": "130958263",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/a23623b002d7312bdf25edae15cb9ebb252965.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/a23623b002d7312bdf25edae15cb9ebb252965.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;",
+                        "originPrice": 17.5,
+                        "currentPrice": 16.9,
+                        "spuDesc": "香辣鸡腿堡+上校鸡块5块+中杯可乐",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2782506971,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9998,
+                                "activityStock": 9998,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 17.5,
+                                "currentPrice": 16.9,
+                                "boxFee": 0.99,
+                                "skuPromotionInfo": "9.66折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.66折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "春日双人套餐",
+                        "unit": "1人份",
+                        "spuId": 2270344002,
+                        "tag": "130958263",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/8ddfd709dcc4ff7a91be93ae27f80fe7256722.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/8ddfd709dcc4ff7a91be93ae27f80fe7256722.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xea9d;",
+                        "originPrice": 41.0,
+                        "currentPrice": 39.8,
+                        "spuDesc": "鸡腿堡+鸡肉卷+辣翅1对+上校鸡块+2中可",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2577072314,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 41.0,
+                                "currentPrice": 39.8,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "9.71折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.71折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "整只黄金脆皮炸鸡（热卖）",
+                        "unit": "1个",
+                        "spuId": 1924967559,
+                        "tag": "95735972",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/ff4ce92514f23a3f3dec087943973575357557.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/ff4ce92514f23a3f3dec087943973575357557.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;&#xea9d;",
+                        "originPrice": 28.0,
+                        "currentPrice": 26.99,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf0d1;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190860804,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": 9924,
+                                "activityStock": 9924,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 28.0,
+                                "currentPrice": 26.99,
+                                "boxFee": 1.99,
+                                "skuPromotionInfo": "9.64折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.64折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "蜜汁手扒鸡（爆款）",
+                        "unit": "1个",
+                        "spuId": 1924930459,
+                        "tag": "95735972",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/27b48c06afe702df52023ecd9ada3c5c419333.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/27b48c06afe702df52023ecd9ada3c5c419333.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;&#xea9d;",
+                        "originPrice": 28.0,
+                        "currentPrice": 25.99,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190860806,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": 881,
+                                "activityStock": 881,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 28.0,
+                                "currentPrice": 25.99,
+                                "boxFee": 1.99,
+                                "skuPromotionInfo": "9.28折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.28折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "BBQ全鸡（招牌）",
+                        "unit": "1个",
+                        "spuId": 1925257320,
+                        "tag": "95735972",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/74d4da4aad326d8238f6e2b36df3349e391443.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/74d4da4aad326d8238f6e2b36df3349e391443.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xf16e;",
+                        "originPrice": 28.0,
+                        "currentPrice": 26.99,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2191232918,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 28.0,
+                                "currentPrice": 26.99,
+                                "boxFee": 1.99,
+                                "skuPromotionInfo": "9.64折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.64折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "2个墨西哥鸡肉卷+上校鸡块+迷你鸡排+1脆骨串+2小可",
+                        "unit": "1人份",
+                        "spuId": 1925294133,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/d5f4b4feecab41a83d91fb642f9e39d4453006.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/d5f4b4feecab41a83d91fb642f9e39d4453006.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf16e;&#xeec9;",
+                        "originPrice": 36.0,
+                        "currentPrice": 34.9,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2191232917,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 9999,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 36.0,
+                                "currentPrice": 34.9,
+                                "boxFee": 1.99,
+                                "skuPromotionInfo": "9.69折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.69折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "超值午晚餐：墨西哥鸡肉卷+薯条+上校鸡块+中杯可乐",
+                        "unit": "1人份",
+                        "spuId": 1925294132,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/178853f1e9086451b25c25f7f226923f352254.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/178853f1e9086451b25c25f7f226923f352254.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe845;&#xe845;",
+                        "originPrice": 24.0,
+                        "currentPrice": 22.9,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2191232916,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 24.0,
+                                "currentPrice": 22.9,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "9.54折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.54折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "香辣鸡翅1对+上校鸡块5个+劲爆鸡米花套餐",
+                        "unit": "1人份",
+                        "spuId": 1925294134,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/640385087dd8a19d7b29805438076832409616.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/640385087dd8a19d7b29805438076832409616.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf6ab;&#xf16e;",
+                        "originPrice": 18.0,
+                        "currentPrice": 17.5,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2191284558,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 9999,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 18.0,
+                                "currentPrice": 17.5,
+                                "boxFee": 2.99,
+                                "skuPromotionInfo": "9.72折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.72折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "超级套餐二选一",
+                        "unit": "1个",
+                        "spuId": 1925287436,
+                        "tag": "95735972",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/cfd3370ae555a6f8ba490df1aac20d80313855.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/cfd3370ae555a6f8ba490df1aac20d80313855.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xf16e;",
+                        "originPrice": 18.0,
+                        "currentPrice": 16.9,
+                        "spuDesc": "超值双层堡套餐",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2191225702,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 18.0,
+                                "currentPrice": 16.9,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "9.39折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [
+                            {
+                                "spuAttrName": "口味",
+                                "spuAttrValueList": [
+                                    {
+                                        "attrId": 1843638842,
+                                        "attrValue": "厚切双层牛肉堡"
+                                    },
+                                    {
+                                        "attrId": 1843638843,
+                                        "attrValue": "双层热辣鸡排堡"
+                                    }
+                                ]
+                            },
+                            {
+                                "spuAttrName": "加料",
+                                "spuAttrValueList": [
+                                    {
+                                        "attrId": 1843638844,
+                                        "attrValue": "可乐"
+                                    }
+                                ]
+                            }
+                        ],
+                        "spuPromotionInfo": "9.39折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "半只黄金炸鸡+上校鸡块5块+小杯可乐",
+                        "unit": "1人份",
+                        "spuId": 1924967562,
+                        "tag": "95735972",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/551efaf73b69d050cc4566950985c52d412490.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/551efaf73b69d050cc4566950985c52d412490.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf0d1;&#xe6e3;",
+                        "originPrice": 21.0,
+                        "currentPrice": 19.9,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xeec9;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190792303,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 9999,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 21.0,
+                                "currentPrice": 19.9,
+                                "boxFee": 1.99,
+                                "skuPromotionInfo": "9.48折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.48折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "半只黄金脆皮鸡",
+                        "unit": "1个",
+                        "spuId": 1924930455,
+                        "tag": "95735972",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/ac0e16dfaddbec1a8904ad8d672687b0369877.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/ac0e16dfaddbec1a8904ad8d672687b0369877.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf16e;&#xeef2;",
+                        "originPrice": 18.0,
+                        "currentPrice": 17.0,
+                        "spuDesc": "新品香酥半只鸡",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190792297,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 18.0,
+                                "currentPrice": 17.0,
+                                "boxFee": 1.99,
+                                "skuPromotionInfo": "9.44折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.44折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "爆款套餐：香辣鸡腿汉堡+经典盖世鸡肉卷+香辣鸡翅+小可",
+                        "unit": "1人份",
+                        "spuId": 1924930470,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/cb69282aa07afcb142b74c0a9b84e91c361776.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/cb69282aa07afcb142b74c0a9b84e91c361776.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 27.0,
+                        "currentPrice": 25.9,
+                        "spuDesc": "超值爆款",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf6ab;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190860812,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 27.0,
+                                "currentPrice": 25.9,
+                                "boxFee": 1.9,
+                                "skuPromotionInfo": "9.59折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.59折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "香辣鸡腿堡+劲爆鸡米花+上校鸡块+中可",
+                        "unit": "1人份",
+                        "spuId": 1924930472,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/6da801fb842576794677d5b09b874b9f410579.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/6da801fb842576794677d5b09b874b9f410579.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xeec9;",
+                        "originPrice": 25.0,
+                        "currentPrice": 23.9,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190860816,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 25.0,
+                                "currentPrice": 23.9,
+                                "boxFee": 1.9,
+                                "skuPromotionInfo": "9.56折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.56折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "劲爆鸡米花+上校鸡块5块+薯条套餐",
+                        "unit": "1人份",
+                        "spuId": 1924930468,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/0e36c4f2048e422b62b52be916168573404976.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/0e36c4f2048e422b62b52be916168573404976.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xeec9;",
+                        "originPrice": 17.0,
+                        "currentPrice": 16.6,
+                        "spuDesc": "鸡米花微辣，其他均不辣，搭配番茄酱",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190860811,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9998,
+                                "activityStock": 9998,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 17.0,
+                                "currentPrice": 16.6,
+                                "boxFee": 2.99,
+                                "skuPromotionInfo": "9.76折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.76折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "上校鸡块5块+劲爆鸡米花+2脆骨串+中可",
+                        "unit": "1人份",
+                        "spuId": 1924930473,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/831f83f56af9a634aad2d30b273213f1438211.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/831f83f56af9a634aad2d30b273213f1438211.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xeec9;",
+                        "originPrice": 20.0,
+                        "currentPrice": 19.0,
+                        "spuDesc": "精品下午茶",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190792311,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 20.0,
+                                "currentPrice": 19.0,
+                                "boxFee": 1.9,
+                                "skuPromotionInfo": "9.5折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.5折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "香辣鸡腿堡+薯条+中杯可乐",
+                        "unit": "1人份",
+                        "spuId": 1924967568,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/287c3e27ebc9c3dbcdea6ac983133e7d374289.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/287c3e27ebc9c3dbcdea6ac983133e7d374289.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe56e;&#xf16e;",
+                        "originPrice": 18.0,
+                        "currentPrice": 16.8,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190860817,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 9999,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 18.0,
+                                "currentPrice": 16.8,
+                                "boxFee": 1.0,
+                                "skuPromotionInfo": "9.33折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.33折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "劲爆鸡米花+脆骨串1串",
+                        "unit": "1人份",
+                        "spuId": 1398678240,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/b6d55fee8bb18f17d630ad61fc014dde125945.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/b6d55fee8bb18f17d630ad61fc014dde125945.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xeec9;",
+                        "originPrice": 11.0,
+                        "currentPrice": 9.9,
+                        "spuDesc": "工作餐，下午茶，宵夜。",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577469044,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 9999,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 11.0,
+                                "currentPrice": 9.9,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "9折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "香辣鸡腿堡+墨西哥鸡肉卷+上校鸡块5块+橙C",
+                        "unit": "1人份",
+                        "spuId": 1398456914,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/e67c9ba3a09853d45c2f1a4d0564313f128853.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/e67c9ba3a09853d45c2f1a4d0564313f128853.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xea9d;&#xea9d;",
+                        "originPrice": 21.0,
+                        "currentPrice": 19.9,
+                        "spuDesc": "经典搭配，样样精品",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;&#xe6e3;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577179925,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9990,
+                                "activityStock": 9990,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 21.0,
+                                "currentPrice": 19.9,
+                                "boxFee": 2.99,
+                                "skuPromotionInfo": "9.48折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.48折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "周日爆款特价-香辣鸡腿堡+墨西哥鸡肉卷+中杯可乐",
+                        "unit": "1人份",
+                        "spuId": 1398678268,
+                        "tag": "95735973",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/3b5bd5b527066478e750fcfd0f492ac0145888.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/3b5bd5b527066478e750fcfd0f492ac0145888.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeef2;",
+                        "originPrice": 17.0,
+                        "currentPrice": 16.66,
+                        "spuDesc": "经典套餐搭配满足您每一天需求！",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577431292,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 9999,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 17.0,
+                                "currentPrice": 16.66,
+                                "boxFee": 1.0,
+                                "skuPromotionInfo": "9.8折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.8折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [
+                            {
+                                "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+                                "width": "60",
+                                "height": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "spuName": "全家福BBQ烤全鸡+香辣鸡腿堡+鸡米花+1脆骨串+中杯可乐",
+                        "unit": "1人份",
+                        "spuId": 1398741847,
+                        "tag": "95735972",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/5955debcb4bae59499c4bdce9d796d3a135970.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/5955debcb4bae59499c4bdce9d796d3a135970.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xea9d;",
+                        "originPrice": 40.0,
+                        "currentPrice": 39.0,
+                        "spuDesc": "BBQ全鸡双人品质餐",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577469057,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 9999,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 40.0,
+                                "currentPrice": 39.0,
+                                "boxFee": 2.99,
+                                "skuPromotionInfo": "9.75折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.75折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "BBQ烤全鸡+薯条+中杯可乐（招牌）",
+                        "unit": "1人份",
+                        "spuId": 1398606729,
+                        "tag": "95735972",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/405b018566c6ef60a953ecf10a60caa8406241.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/405b018566c6ef60a953ecf10a60caa8406241.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe56e;&#xf6ab;",
+                        "originPrice": 31.0,
+                        "currentPrice": 29.9,
+                        "spuDesc": "华莱士BBQ炸鸡倡导的是“健康、美味”。精选800克童子鸡，有着几十道严格的检测程序，料理秘方将鸡肉腌制几十个小时，正是因为华莱士BBQ炸鸡腌制时间长，鸡肉入味均匀，肉质更纯粹，在煎炸后鸡肉也更加香脆，不油腻，对人体健康更具益处。",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xeec9;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577431274,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 31.0,
+                                "currentPrice": 29.9,
+                                "boxFee": 2.99,
+                                "skuPromotionInfo": "9.65折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.65折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [
+                            {
+                                "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+                                "width": "60",
+                                "height": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "spuName": "周六爆款特价-黄金半鸡+墨西哥鸡肉卷+中杯可乐",
+                        "unit": "1人份",
+                        "spuId": 1398678270,
+                        "tag": "95735973",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/3b3c5e1a6200719548371eabbfc54726327754.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/3b3c5e1a6200719548371eabbfc54726327754.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;",
+                        "originPrice": 21.0,
+                        "currentPrice": 19.9,
+                        "spuDesc": "周六超值套餐",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 3,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577500275,
+                                "spec": "(1人份)",
+                                "soldStatus": 1,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 21.0,
+                                "currentPrice": 19.9,
+                                "boxFee": 2.0,
+                                "skuPromotionInfo": "9.48折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.48折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "非可售时间",
+                        "statusRemindList": [
+                            {
+                                "title": "每周可售日期",
+                                "content": "周六"
+                            },
+                            {
+                                "title": "每日可售时间",
+                                "content": "00:00-23:59"
+                            }
+                        ]
+                    },
+                    {
+                        "spuName": "周二爆款特价-2个香辣鸡腿堡+2杯中杯可乐",
+                        "unit": "1人份",
+                        "spuId": 1398568383,
+                        "tag": "95735973",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/2c2044f950c417b44a7868a69afd476f374939.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/2c2044f950c417b44a7868a69afd476f374939.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;",
+                        "originPrice": 21.0,
+                        "currentPrice": 19.9,
+                        "spuDesc": "周二半价特惠",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;",
+                        "sellStatus": 3,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577217718,
+                                "spec": "(1人份)",
+                                "soldStatus": 1,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 21.0,
+                                "currentPrice": 19.9,
+                                "boxFee": 0.5,
+                                "skuPromotionInfo": "9.48折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.48折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "非可售时间",
+                        "statusRemindList": [
+                            {
+                                "title": "每周可售日期",
+                                "content": "周二"
+                            },
+                            {
+                                "title": "每日可售时间",
+                                "content": "00:00-23:59"
+                            }
+                        ]
+                    },
+                    {
+                        "spuName": "周五爆款折扣-2个墨西哥鸡肉卷+上校鸡块5块",
+                        "unit": "1人份",
+                        "spuId": 1398702516,
+                        "tag": "95735973",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/61f0f6ece8ee526c9a48d233a602af02330988.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/61f0f6ece8ee526c9a48d233a602af02330988.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xeec9;",
+                        "originPrice": 17.0,
+                        "currentPrice": 16.66,
+                        "spuDesc": "周五元气满满充电餐",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 3,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577179934,
+                                "spec": "(1人份)",
+                                "soldStatus": 1,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 17.0,
+                                "currentPrice": 16.66,
+                                "boxFee": 1.0,
+                                "skuPromotionInfo": "9.8折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.8折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "非可售时间",
+                        "statusRemindList": [
+                            {
+                                "title": "每周可售日期",
+                                "content": "周五"
+                            },
+                            {
+                                "title": "每日可售时间",
+                                "content": "00:00-23:59"
+                            }
+                        ]
+                    },
+                    {
+                        "spuName": "周一爆款特价-墨西哥鸡肉卷",
+                        "unit": "1个",
+                        "spuId": 1398456921,
+                        "tag": "95735973",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/51a233d46196d8da00fd6bf91e38b494428643.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/51a233d46196d8da00fd6bf91e38b494428643.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;",
+                        "originPrice": 9.9,
+                        "currentPrice": 4.0,
+                        "spuDesc": "工作顺利周一餐",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 3,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577500274,
+                                "spec": "(1个)",
+                                "soldStatus": 1,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 9.9,
+                                "currentPrice": 4.0,
+                                "boxFee": 1.5,
+                                "skuPromotionInfo": "4.04折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "4.04折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "非可售时间",
+                        "statusRemindList": [
+                            {
+                                "title": "每周可售日期",
+                                "content": "周一"
+                            },
+                            {
+                                "title": "每日可售时间",
+                                "content": "00:00-23:59"
+                            }
+                        ]
+                    },
+                    {
+                        "spuName": "周三爆款特价-双层香辣鸡腿汉堡",
+                        "unit": "1个",
+                        "spuId": 1398678271,
+                        "tag": "95735973",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/c9b6cbddbd1235425e305348e4ca9fcb400648.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/c9b6cbddbd1235425e305348e4ca9fcb400648.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;",
+                        "originPrice": 9.9,
+                        "currentPrice": 8.8,
+                        "spuDesc": "选用2片超大无骨鸡腿肉，配上秘制腌料，精心烹炸至金黄色，外酥里嫩，搭配香甜沙拉酱和鲜脆生菜。",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 3,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577253860,
+                                "spec": "(1个)",
+                                "soldStatus": 1,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 9.9,
+                                "currentPrice": 8.8,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "8.89折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "8.89折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "非可售时间",
+                        "statusRemindList": [
+                            {
+                                "title": "每周可售日期",
+                                "content": "周三"
+                            },
+                            {
+                                "title": "每日可售时间",
+                                "content": "00:00-23:59"
+                            }
+                        ]
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "93823701",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "堡堡有福",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "至尊奥尔良板烧堡",
+                        "unit": "1个",
+                        "spuId": 1352811697,
+                        "tag": "93823701",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/7b4421aa12348112328b187c1436e1a5118856.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/7b4421aa12348112328b187c1436e1a5118856.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 11.0,
+                        "currentPrice": 11.0,
+                        "spuDesc": "精选板烧腿肉烤制而成",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523725689,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": 9993,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 11.0,
+                                "currentPrice": 11.0,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "95735970",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "折扣不限量",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "香辣鸡翅1对+上校鸡块5个+劲爆鸡米花套餐",
+                        "unit": "1人份",
+                        "spuId": 1925294134,
+                        "tag": "95735970",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/640385087dd8a19d7b29805438076832409616.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/640385087dd8a19d7b29805438076832409616.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf6ab;&#xf16e;",
+                        "originPrice": 18.0,
+                        "currentPrice": 17.5,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf16e;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2191284558,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 9999,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 18.0,
+                                "currentPrice": 17.5,
+                                "boxFee": 2.99,
+                                "skuPromotionInfo": "9.72折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.72折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "130958263",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "美团流量专享",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "1元香辣鸡腿堡商品券",
+                        "unit": "1人份",
+                        "spuId": 2538465687,
+                        "tag": "130958263",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/35b2ad6665e18d1ca598230cd2b314b5422413.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/35b2ad6665e18d1ca598230cd2b314b5422413.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xea9d;",
+                        "originPrice": 12.0,
+                        "currentPrice": 12.0,
+                        "spuDesc": "直播1元香辣鸡腿堡商品券，小伙伴们勿拍错喔",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 2872330658,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 12.0,
+                                "currentPrice": 12.0,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "95735972",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "店长推荐",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "蜜汁手扒鸡（爆款）",
+                        "unit": "1个",
+                        "spuId": 1924930459,
+                        "tag": "95735972",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/27b48c06afe702df52023ecd9ada3c5c419333.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/27b48c06afe702df52023ecd9ada3c5c419333.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xea9d;&#xea9d;",
+                        "originPrice": 28.0,
+                        "currentPrice": 25.99,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 2190860806,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": 881,
+                                "activityStock": 881,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 28.0,
+                                "currentPrice": 25.99,
+                                "boxFee": 1.99,
+                                "skuPromotionInfo": "9.28折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.28折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "95735971",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "满减套餐",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "墨西哥鸡肉卷+薯条+中杯可乐",
+                        "unit": "1人份",
+                        "spuId": 1398568379,
+                        "tag": "95735971",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/9bdc7d3e0b65f5acb24db73b9d14bebf353274.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/9bdc7d3e0b65f5acb24db73b9d14bebf353274.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;",
+                        "originPrice": 28.8,
+                        "currentPrice": 28.8,
+                        "spuDesc": "经典单人套餐",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1577179926,
+                                "spec": "(1人份)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 28.8,
+                                "currentPrice": 28.8,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [
+                            {
+                                "spuAttrName": "辣度",
+                                "spuAttrValueList": [
+                                    {
+                                        "attrId": 562631794,
+                                        "attrValue": "微辣"
+                                    }
+                                ]
+                            }
+                        ],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "93823702",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "精品小食",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "玉米杯",
+                        "unit": "1个",
+                        "spuId": 1352851077,
+                        "tag": "93823702",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/b41dd6575f0b7ce98bff3a6fdad3d4cb114172.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/b41dd6575f0b7ce98bff3a6fdad3d4cb114172.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xf16e;",
+                        "originPrice": 8.9,
+                        "currentPrice": 8.9,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523803679,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": 9998,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 8.9,
+                                "currentPrice": 8.9,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "劲爆鸡米花",
+                        "unit": "约100克",
+                        "spuId": 1352671601,
+                        "tag": "93823702",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/0102f237cf9db2804ade5203b945e8c3123425.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/0102f237cf9db2804ade5203b945e8c3123425.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe6e3;&#xea9d;&#xea9d;",
+                        "originPrice": 9.9,
+                        "currentPrice": 9.9,
+                        "spuDesc": "精选小块鸡肉，按照标准配准制作而成",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;&#xf261;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523803682,
+                                "spec": "(约100克)",
+                                "soldStatus": 0,
+                                "realStock": 9997,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 9.9,
+                                "currentPrice": 9.9,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "93823703",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "缤纷酷饮",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "Tessdoll焦糖奶茶",
+                        "unit": "1个",
+                        "spuId": 1352671606,
+                        "tag": "93823703",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproductdwm/1092da7504b7220119a5d9bd33a82e4c107655.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproductdwm/1092da7504b7220119a5d9bd33a82e4c107655.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xeec9;&#xf16e;",
+                        "originPrice": 8.9,
+                        "currentPrice": 8.9,
+                        "spuDesc": "奶茶",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xf261;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1523854458,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": 9999,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 8.9,
+                                "currentPrice": 8.9,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "95735973",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "限时每日超低折扣",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "周五爆款折扣-2个墨西哥鸡肉卷+上校鸡块5块",
+                        "unit": "1人份",
+                        "spuId": 1398702516,
+                        "tag": "95735973",
+                        "activityTag": "discount",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/61f0f6ece8ee526c9a48d233a602af02330988.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/61f0f6ece8ee526c9a48d233a602af02330988.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf261;&#xeec9;",
+                        "originPrice": 17.0,
+                        "currentPrice": 16.66,
+                        "spuDesc": "周五元气满满充电餐",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 3,
+                        "activityType": 1,
+                        "skuList": [
+                            {
+                                "skuId": 1577179934,
+                                "spec": "(1人份)",
+                                "soldStatus": 1,
+                                "realStock": -1,
+                                "activityStock": -1,
+                                "minPurchaseNum": -1,
+                                "restrict": 1,
+                                "originPrice": 17.0,
+                                "currentPrice": 16.66,
+                                "boxFee": 1.0,
+                                "skuPromotionInfo": "9.8折 限1份",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "9.8折 限1份",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "非可售时间",
+                        "statusRemindList": [
+                            {
+                                "title": "每周可售日期",
+                                "content": "周五"
+                            },
+                            {
+                                "title": "每日可售时间",
+                                "content": "00:00-23:59"
+                            }
+                        ]
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "96353338",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "进店必看",
+                "categoryType": 0,
+                "spuList": [
+                    {
+                        "spuName": "餐厅一角",
+                        "unit": "1个",
+                        "spuId": 1414420122,
+                        "tag": "96353338",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/25018b57d7ec6de76b94d3b94e9d6226961095.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/25018b57d7ec6de76b94d3b94e9d6226961095.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xea9d;",
+                        "originPrice": 0.0,
+                        "currentPrice": 0.0,
+                        "spuDesc": "各位小主，本店不是那种只做外卖的小作坊，请安心购买喔",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xea9d;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [
+                            {
+                                "skuId": 1596834644,
+                                "spec": "(1个)",
+                                "soldStatus": 0,
+                                "realStock": -1,
+                                "activityStock": 0,
+                                "minPurchaseNum": -1,
+                                "restrict": -1,
+                                "originPrice": 0.0,
+                                "currentPrice": 0.0,
+                                "boxFee": 0.0,
+                                "skuPromotionInfo": "",
+                                "count": 0
+                            }
+                        ],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            }
+        ],
+        "shoppingCart": {
+            "minFeeForCartTip": 14.0,
+            "activityInfo": {
+                "type": 0,
+                "content": "",
+                "policy": "",
+                "onlyOnline": true
+            },
+            "promptText": ""
+        }
+    },
+    "code": 0,
+    "msg": "成功"
+}

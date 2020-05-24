@@ -1,0 +1,355 @@
+{
+    "data": {
+        "list": [
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-05-16",
+                "score": 5,
+                "deliveryTime": "33分钟送达",
+                "content": "#炸鸡百威啤酒干杯桶T# ",
+                "praiseDish": "炸鸡百威啤酒干杯桶T",
+                "label": "货品完好",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/2f2d9b87f15a5a89c3d674d4d3be3099287945.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/2f2d9b87f15a5a89c3d674d4d3be3099287945.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/2f2d9b87f15a5a89c3d674d4d3be3099287945.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "IBZ218684211甄",
+                "userPicUrl": "https://img.meituan.net/avatar/2d922c1bee18f908291b74dd474b9d4217312.jpg",
+                "userID": 1877576751,
+                "commentTime": "2020-04-16",
+                "score": 5,
+                "deliveryTime": "22分钟送达",
+                "content": "",
+                "praiseDish": "冬菇滑鸡粥单人餐NT,二块香辣鸡翅炸鸡TN",
+                "label": "仪表整洁,货品完好,快速准时,礼貌热情,风雨无阻",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/546d79fe9cc40312d49b6383489992ce17866.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/546d79fe9cc40312d49b6383489992ce17866.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/546d79fe9cc40312d49b6383489992ce17866.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "Wvf869405996",
+                "userPicUrl": "",
+                "userID": 1630592696,
+                "commentTime": "2020-04-09",
+                "score": 5,
+                "deliveryTime": "23分钟送达",
+                "content": "速度快的把我黑到了，估计快递小哥哥骑车直嗤，哈哈哈！谢谢",
+                "praiseDish": "",
+                "label": "",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/5e7d43c007a7ec6446dfc65ee025ced091175.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/5e7d43c007a7ec6446dfc65ee025ced091175.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/5e7d43c007a7ec6446dfc65ee025ced091175.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "OlO178743630",
+                "userPicUrl": "https://img.meituan.net/avatar/44c7bef2d7eb6c4c4bed8135d88586bc17672.jpg",
+                "userID": 1066717606,
+                "commentTime": "2020-04-19",
+                "score": 5,
+                "deliveryTime": "30分钟送达",
+                "content": "很好嗯满意好好嗨",
+                "praiseDish": "六味小吃桶T",
+                "label": "",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "wDD231380148",
+                "userPicUrl": "",
+                "userID": 2840593528,
+                "commentTime": "2020-04-06",
+                "score": 5,
+                "deliveryTime": "28分钟送达",
+                "content": "外卖小哥人很好，不错",
+                "praiseDish": "原味鸡九珍套餐T",
+                "label": "",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/224eebee9f503493f5114d3a7728d69569220.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/224eebee9f503493f5114d3a7728d69569220.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/224eebee9f503493f5114d3a7728d69569220.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "OGA461094035",
+                "userPicUrl": "",
+                "userID": 2862291035,
+                "commentTime": "2020-05-15",
+                "score": 4,
+                "deliveryTime": "31分钟送达",
+                "content": "还是喜欢香辣鸡腿堡。潮汉堡吃不消",
+                "praiseDish": "",
+                "label": "",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-03-28",
+                "score": 4,
+                "deliveryTime": "32分钟送达",
+                "content": "汉堡里面的生菜又小又少 都是碎的 不太新鲜 ，鸡米花太软了不脆  其余还好 ",
+                "praiseDish": "",
+                "label": "快速准时,货品完好,仪表整洁,礼貌热情,风雨无阻",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "郑浩3748",
+                "userPicUrl": "",
+                "userID": 2846071008,
+                "commentTime": "2020-04-15",
+                "score": 5,
+                "deliveryTime": "20分钟送达",
+                "content": "送的太快了，而且还很美味。",
+                "praiseDish": "",
+                "label": "快速准时",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "aEf448816877",
+                "userPicUrl": "",
+                "userID": 748110989,
+                "commentTime": "2020-03-17",
+                "score": 5,
+                "deliveryTime": "31分钟送达",
+                "content": "薯饼很好吃 就是没吃到皮蛋瘦肉粥 下次到店里吃",
+                "praiseDish": "鸡肉帕尼尼套餐T,安心大油条T",
+                "label": "",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-03-25",
+                "score": 5,
+                "deliveryTime": "26分钟送达",
+                "content": "很好吃，就是有点闲！",
+                "praiseDish": "原味鸡九珍套餐T",
+                "label": "礼貌热情,货品完好,风雨无阻,仪表整洁,快速准时",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-04-21",
+                "score": 1,
+                "deliveryTime": "33分钟送达",
+                "content": "软不拉几的，估计是放微波炉加热的",
+                "praiseDish": "",
+                "label": "",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-03-25",
+                "score": 1,
+                "deliveryTime": "33分钟送达",
+                "content": "可乐怎么少了一杯",
+                "praiseDish": "",
+                "label": "少餐/洒餐",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "Nza232462869",
+                "userPicUrl": "",
+                "userID": 1227678405,
+                "commentTime": "2020-03-13",
+                "score": 5,
+                "deliveryTime": "21分钟送达",
+                "content": "",
+                "praiseDish": "",
+                "label": "快速准时,仪表整洁,货品完好,风雨无阻,礼貌热情",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/34ff3d67eebbb4261be1623c8f14d46b4907588.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/34ff3d67eebbb4261be1623c8f14d46b4907588.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/34ff3d67eebbb4261be1623c8f14d46b4907588.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "FHa785196816",
+                "userPicUrl": "",
+                "userID": 1645207680,
+                "commentTime": "2020-03-08",
+                "score": 5,
+                "deliveryTime": "15分钟送达",
+                "content": "外卖小哥送货非常快",
+                "praiseDish": "炸鸡分享桶T,原味鸡九珍套餐T",
+                "label": "货品完好,仪表整洁,快速准时,礼貌热情,风雨无阻",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "xHS724102084",
+                "userPicUrl": "",
+                "userID": 921980134,
+                "commentTime": "2020-03-03",
+                "score": 5,
+                "deliveryTime": "31分钟送达",
+                "content": "很好吃，就是蛋挞没勺子。emmm",
+                "praiseDish": "",
+                "label": "礼貌热情,快速准时",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-03-01",
+                "score": 5,
+                "deliveryTime": "8分钟送达",
+                "content": "赞\uD83D\uDC4D赞赞赞赞赞",
+                "praiseDish": "新奥尔良烤鸡腿堡T,2块新奥尔良烤翅T",
+                "label": "",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "MdE764686364",
+                "userPicUrl": "https://img.meituan.net/avatar/de6515d8b9f599b8caf18c206cea1f3930815.jpg",
+                "userID": 255815598,
+                "commentTime": "2020-01-04",
+                "score": 3,
+                "deliveryTime": "26分钟送达",
+                "content": "刚刚拿到手的玉米",
+                "praiseDish": "",
+                "label": "",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/874a53ff4a7a67e8beb56381405d6c6327176.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/874a53ff4a7a67e8beb56381405d6c6327176.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/874a53ff4a7a67e8beb56381405d6c6327176.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/3ccee5b28a264fa41dae6fbdc8fba8e530864.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/3ccee5b28a264fa41dae6fbdc8fba8e530864.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/3ccee5b28a264fa41dae6fbdc8fba8e530864.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "YYr463852389",
+                "userPicUrl": "",
+                "userID": 718025037,
+                "commentTime": "2020-01-25",
+                "score": 5,
+                "deliveryTime": "8分钟送达",
+                "content": "外卖员服务很好，大赞\uD83D\uDC4D",
+                "praiseDish": "",
+                "label": "",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "无糖nice",
+                "userPicUrl": "https://img.meituan.net/avatar/7f19680852a315acffdeafc67ae7b20a14960.jpg",
+                "userID": 1440571997,
+                "commentTime": "2020-01-15",
+                "score": 5,
+                "deliveryTime": "33分钟送达",
+                "content": "好久没吃肯德基的鸡肉卷啦！yummy\uD83D\uDE04",
+                "praiseDish": "老北京卷土豆泥餐T",
+                "label": "",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "woj149939161",
+                "userPicUrl": "",
+                "userID": 749525314,
+                "commentTime": "2020-01-22",
+                "score": 5,
+                "deliveryTime": "34分钟送达",
+                "content": "快很好以后还会再来的光顾你家的！",
+                "praiseDish": "原味鸡九珍套餐T",
+                "label": "",
+                "pictures": [],
+                "isAnonymous": 0
+            }
+        ],
+        "recordCount": 309,
+        "startIndex": 0,
+        "nextStartIndex": 20,
+        "isEnd": false,
+        "shopId": 1206216056,
+        "mtWmPoiId": "933593952380280",
+        "dpCommentNum": 0,
+        "PraiseRatio": "商家好评率97%",
+        "buzCode": 0,
+        "qualityScore": 4.9,
+        "packScore": 4.9,
+        "integratedScore": 4.9,
+        "shopScore": 4.9,
+        "deliveryScore": 4.9,
+        "commentLabels": [
+            {
+                "content": "全部(309)",
+                "type": 1,
+                "isSelected": 1,
+                "ID": 0
+            },
+            {
+                "content": "好评(300)",
+                "type": 1,
+                "isSelected": 0,
+                "ID": 1
+            },
+            {
+                "content": "差评(4)",
+                "type": 1,
+                "isSelected": 0,
+                "ID": 3
+            },
+            {
+                "content": "有图评价(12)",
+                "type": 1,
+                "isSelected": 0,
+                "ID": 5
+            },
+            {
+                "content": "味道赞(4)",
+                "type": 2,
+                "isSelected": 0,
+                "ID": 75
+            }
+        ]
+    },
+    "code": 0,
+    "msg": "成功"
+}

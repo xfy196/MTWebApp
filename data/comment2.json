@@ -1,0 +1,443 @@
+{
+    "data": {
+        "list": [
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-04-29",
+                "score": 5,
+                "deliveryTime": "14分钟送达",
+                "content": "包装好看，#香辣鸡腿堡+墨西哥鸡肉卷+上校鸡块5块+橙C# 好好好吃，下次在点这个套餐，外卖小哥送的很快，好评(o^^o)",
+                "praiseDish": "香辣鸡腿堡+墨西哥鸡肉卷+上校鸡块5块+橙C",
+                "label": "仪表整洁,风雨无阻,穿戴工服,快速准时,货品完好,礼貌热情",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/1c16cc67d598fc5de67f3c9a16428a2e27573.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/1c16cc67d598fc5de67f3c9a16428a2e27573.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/1c16cc67d598fc5de67f3c9a16428a2e27573.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/9f1791489e44b634c85c0d17ab2d83e944060.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/9f1791489e44b634c85c0d17ab2d83e944060.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/9f1791489e44b634c85c0d17ab2d83e944060.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/f35f57473f4985ba4338e0a6e94aca4741747.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/f35f57473f4985ba4338e0a6e94aca4741747.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/f35f57473f4985ba4338e0a6e94aca4741747.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/b0319f15c8bc9cd2ac1527508ae9973b39514.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/b0319f15c8bc9cd2ac1527508ae9973b39514.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/b0319f15c8bc9cd2ac1527508ae9973b39514.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/8357f57bfab0023803e489e707ca588839302.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/8357f57bfab0023803e489e707ca588839302.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/8357f57bfab0023803e489e707ca588839302.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/ecb68bec6084d2b0c14939e91bf190c239583.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/ecb68bec6084d2b0c14939e91bf190c239583.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/ecb68bec6084d2b0c14939e91bf190c239583.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/db86fe4d30e4ce789871385d308aa8d744692.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/db86fe4d30e4ce789871385d308aa8d744692.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/db86fe4d30e4ce789871385d308aa8d744692.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/52f803783d92c3ed2ec70076f590a19333814.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/52f803783d92c3ed2ec70076f590a19333814.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/52f803783d92c3ed2ec70076f590a19333814.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/41ebfbbbba123d7863b927946440688043922.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/41ebfbbbba123d7863b927946440688043922.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/41ebfbbbba123d7863b927946440688043922.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "fVi400680394",
+                "userPicUrl": "",
+                "userID": 811356411,
+                "commentTime": "2020-05-16",
+                "score": 5,
+                "deliveryTime": "37分钟送达",
+                "content": "#香辣鸡腿堡+墨西哥鸡肉卷+上校鸡块5块+橙C# 好吃好吃好吃好吃好吃好吃好吃好吃好吃",
+                "praiseDish": "",
+                "label": "",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/f35f57473f4985ba4338e0a6e94aca4741747.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/f35f57473f4985ba4338e0a6e94aca4741747.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/f35f57473f4985ba4338e0a6e94aca4741747.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "KrT749788720",
+                "userPicUrl": "",
+                "userID": 1466916112,
+                "commentTime": "2020-05-20",
+                "score": 5,
+                "deliveryTime": "29分钟送达",
+                "content": "口味不错，包装也很好，",
+                "praiseDish": "",
+                "label": "快速准时,货品完好,礼貌热情",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "蝴蝶菲菲2",
+                "userPicUrl": "https://img.meituan.net/avatar/d45e77858993a81142417412a9cdca1f19609.jpg",
+                "userID": 111061854,
+                "commentTime": "2020-05-16",
+                "score": 5,
+                "deliveryTime": "14分钟送达",
+                "content": "很快！10分钟就到了\uD83D\uDE04",
+                "praiseDish": "BBQ烤全鸡+薯条+中杯可乐（招牌）,香辣鸡腿堡+墨西哥鸡肉卷+上校鸡块5块+橙C",
+                "label": "礼貌热情",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "fVi400680394",
+                "userPicUrl": "",
+                "userID": 811356411,
+                "commentTime": "2020-05-06",
+                "score": 5,
+                "deliveryTime": "14分钟送达",
+                "content": "#香辣鸡腿堡+墨西哥鸡肉卷+上校鸡块5块+橙C# #香辣鸡腿堡+墨西哥鸡肉卷+上校鸡块5块+橙C# ",
+                "praiseDish": "",
+                "label": "穿戴工服,仪表整洁,风雨无阻,礼貌热情,货品完好,快速准时",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "阿巴阿巴等恰饭",
+                "userPicUrl": "https://img.meituan.net/avatar/786d7c9f81b925f5cb4f3e8bf92308be20632.jpg",
+                "userID": 2835730485,
+                "commentTime": "2020-04-19",
+                "score": 4,
+                "deliveryTime": "28分钟送达",
+                "content": "总体来说很好，毕竟都买了好多次了嘛，但是今天吃了一半发现好像有点肉没熟.....？希望商家下次注意啦",
+                "praiseDish": "墨西哥鸡肉卷,劲爆鸡米花",
+                "label": "",
+                "shopReply": "商家回复(2天后):亲爱的顾客，十分抱歉本次的服务没有让您获得最佳体验，我们会不断改善服务，期待您的再次惠顾！",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/c6925c72b22c95648aa59e2305c5722634333.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/c6925c72b22c95648aa59e2305c5722634333.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/c6925c72b22c95648aa59e2305c5722634333.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/66bb894eeb7d50087e65db8aad607d1228818.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/66bb894eeb7d50087e65db8aad607d1228818.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/66bb894eeb7d50087e65db8aad607d1228818.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/2d7c78c7317fc7f7253466217012b2bc33345.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/2d7c78c7317fc7f7253466217012b2bc33345.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/2d7c78c7317fc7f7253466217012b2bc33345.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "iaw561852842",
+                "userPicUrl": "",
+                "userID": 1430810242,
+                "commentTime": "2020-04-26",
+                "score": 5,
+                "deliveryTime": "20分钟送达",
+                "content": "包装完美，口感很好，谢谢\uD83D\uDE1C ",
+                "praiseDish": "",
+                "label": "",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/9b73964a61984d5a24fcdb5f326b392440368.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/9b73964a61984d5a24fcdb5f326b392440368.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/9b73964a61984d5a24fcdb5f326b392440368.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "snm741981957",
+                "userPicUrl": "",
+                "userID": 1072076399,
+                "commentTime": "2020-03-06",
+                "score": 4,
+                "deliveryTime": "15分钟送达",
+                "content": "烤鸡腿堡的沙拉酱有一种说不出来的滋味，反正就是很不好吃，有点冲脑子，其他的汉堡和鸡肉卷还可以",
+                "praiseDish": "牛肉汉堡+劲爆鸡米花+橙C,香辣鸡腿堡,墨西哥鸡肉卷",
+                "label": "快速准时,仪表整洁,货品完好,穿戴工服",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/8ca65f45aa38c5dc08913a9665f3b23238178.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/8ca65f45aa38c5dc08913a9665f3b23238178.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/8ca65f45aa38c5dc08913a9665f3b23238178.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "東南南",
+                "userPicUrl": "https://img.meituan.net/avatar/b07c2309f791aa20e2b2b3521890630517767.jpg",
+                "userID": 2522358660,
+                "commentTime": "2020-05-02",
+                "score": 5,
+                "deliveryTime": "27分钟送达",
+                "content": "太棒了 色香味俱全",
+                "praiseDish": "至尊奥尔良板烧堡,墨西哥鸡肉卷,香辣鸡翅",
+                "label": "礼貌热情",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "eFX489232655",
+                "userPicUrl": "https://img.meituan.net/avatar/16cccdb1ac5d6a7347f38412af14e8404884.jpg",
+                "userID": 2573206093,
+                "commentTime": "2020-04-30",
+                "score": 5,
+                "deliveryTime": "48分钟送达",
+                "content": "蜜汁手扒鸡没以前好吃了。",
+                "praiseDish": "",
+                "label": "仪表整洁,穿戴工服,礼貌热情,风雨无阻,货品完好,快速准时",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-05-11",
+                "score": 1,
+                "deliveryTime": "34分钟送达",
+                "content": "焦糖奶茶#Tessdoll焦糖奶茶#就是咖啡，唬人的",
+                "praiseDish": "周一爆款特价-墨西哥鸡肉卷",
+                "label": "货品完好,快速准时",
+                "shopReply": "商家回复(1天后):亲爱的顾客，十分抱歉本次的服务没有让您获得最佳体验，我们会不断改善服务，期待您的再次惠顾！",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-05-10",
+                "score": 3,
+                "deliveryTime": "26分钟送达",
+                "content": "鸡腿都是复炸的  有点干 一般",
+                "praiseDish": "",
+                "label": "货品完好",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-04-15",
+                "score": 1,
+                "deliveryTime": "35分钟送达",
+                "content": "也许是放的时间长了，考的时间长了，肉质太老，吃起来难吃。吃一半就扔了。不满意！",
+                "praiseDish": "",
+                "label": "",
+                "shopReply": "商家回复(1天后):亲爱的顾客，十分抱歉本次的服务没有让您获得最佳体验，我们会不断改善服务，期待您的再次惠顾！",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-04-29",
+                "score": 1,
+                "deliveryTime": "50分钟送达",
+                "content": "味道不好",
+                "praiseDish": "",
+                "label": "少餐/洒餐,态度不好,送达超时",
+                "shopReply": "商家回复(1天后):亲爱的顾客，十分抱歉本次的服务没有让您获得最佳体验，我们会不断改善服务，期待您的再次惠顾！",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-02-28",
+                "score": 2,
+                "deliveryTime": "22分钟送达",
+                "content": "这个11块的汉堡也忒小了吧，让我大跌眼镜啊啊啊啊，说实话越来越一般了。",
+                "praiseDish": "紧急救援能量套餐",
+                "label": "礼貌热情",
+                "shopReply": "商家回复(1天后):亲爱的顾客，非常抱歉影响您的用餐，感谢您的提醒与反馈，您反馈的问题我们会在下次服务中改进，期待您再次的光临！",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/ce413569552c0895b3df81a4fa1115aa52364.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/ce413569552c0895b3df81a4fa1115aa52364.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/ce413569552c0895b3df81a4fa1115aa52364.jpg@330w_330h_1e_1c"
+                    },
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/c7e45706fe871d445512655aa1c6e3f151860.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/c7e45706fe871d445512655aa1c6e3f151860.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/c7e45706fe871d445512655aa1c6e3f151860.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-04-24",
+                "score": 1,
+                "deliveryTime": "28分钟送达",
+                "content": "这是我吃过最菜的，烤得又小又干",
+                "praiseDish": "",
+                "label": "",
+                "shopReply": "商家回复(1天后):亲爱的顾客，十分抱歉本次的服务没有让您获得最佳体验，我们会不断改善服务，期待您的再次惠顾",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-04-23",
+                "score": 1,
+                "deliveryTime": "49分钟送达",
+                "content": "我也是醉了，美团外卖，拿了个饿了么的东西给骑手，骑手看手机上的地址，送来一看东西也不一样，价钱也不一样，打电话问，让我等一下，我等的时间谁来赔。接电话的那个女的，态度极其恶劣，严重差评，第一次点外卖遇见这种。",
+                "praiseDish": "",
+                "label": "",
+                "shopReply": "商家回复(1天后):亲爱的顾客，十分抱歉本次的服务没有让您获得最佳体验，我们会不断改善服务，期待您的再次惠顾！",
+                "pictures": [],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "匿名用户",
+                "userPicUrl": "",
+                "userID": 0,
+                "commentTime": "2020-03-01",
+                "score": 1,
+                "deliveryTime": "22分钟送达",
+                "content": "人生中第一次吃到这么小的汉堡包#至尊奥尔良板烧堡# #香辣鸡腿堡#厉害了",
+                "praiseDish": "",
+                "label": "",
+                "shopReply": "商家回复(1天后):亲爱的顾客，非常抱歉影响您的用餐，感谢您的提醒与反馈，您反馈的问题我们会在下次服务中改进，期待您再次的光临！",
+                "pictures": [
+                    {
+                        "originalPicUrl": "http://p0.meituan.net/wmcomment/786425b4dc6febd212d015b72d68761150794.jpg",
+                        "smallPicUrl": "http://p0.meituan.net/wmcomment/786425b4dc6febd212d015b72d68761150794.jpg@160w_160h_1e_1c",
+                        "bigPicUrl": "http://p0.meituan.net/wmcomment/786425b4dc6febd212d015b72d68761150794.jpg@330w_330h_1e_1c"
+                    }
+                ],
+                "isAnonymous": 1
+            },
+            {
+                "userName": "柒月yuee",
+                "userPicUrl": "https://img.meituan.net/avatar/4b2f9fc9e41bc93857294090d35fd7ec35398.jpg",
+                "userID": 166626232,
+                "commentTime": "2020-04-11",
+                "score": 3,
+                "deliveryTime": "25分钟送达",
+                "content": "#香辣鸡翅#好像是反复炸过的都发黑了\n#香辣鸡腿堡#面包很硬",
+                "praiseDish": "",
+                "label": "礼貌热情,货品完好,穿戴工服,快速准时,仪表整洁,风雨无阻",
+                "shopReply": "商家回复(1天后):亲爱的顾客，十分抱歉本次的服务没有让您获得最佳体验，我们会不断改善服务，期待您的再次惠顾！",
+                "pictures": [],
+                "isAnonymous": 0
+            },
+            {
+                "userName": "呜拉拉的爸爸",
+                "userPicUrl": "https://img.meituan.net/avatar/1a34255a67664f188899bf16f012769c126951.jpg",
+                "userID": 2228902140,
+                "commentTime": "2020-04-17",
+                "score": 5,
+                "deliveryTime": "29分钟送达",
+                "content": "在他家点的第N次,你说好不好吃",
+                "praiseDish": "周末乐享双人套餐,劲爆鸡米花",
+                "label": "风雨无阻,穿戴工服,礼貌热情,仪表整洁,快速准时,货品完好",
+                "shopReply": "商家回复(1天后):亲爱的顾客，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+                "pictures": [],
+                "isAnonymous": 0
+            }
+        ],
+        "recordCount": 1561,
+        "startIndex": 0,
+        "nextStartIndex": 20,
+        "isEnd": false,
+        "shopId": 1206269435,
+        "mtWmPoiId": "910499913283067",
+        "dpCommentNum": 0,
+        "PraiseRatio": "商家好评率95%",
+        "buzCode": 0,
+        "qualityScore": 4.7,
+        "packScore": 4.8,
+        "integratedScore": 4.7,
+        "shopScore": 4.7,
+        "deliveryScore": 4.9,
+        "commentLabels": [
+            {
+                "content": "全部(1561)",
+                "type": 1,
+                "isSelected": 1,
+                "ID": 0
+            },
+            {
+                "content": "好评(1493)",
+                "type": 1,
+                "isSelected": 0,
+                "ID": 1
+            },
+            {
+                "content": "差评(45)",
+                "type": 1,
+                "isSelected": 0,
+                "ID": 3
+            },
+            {
+                "content": "有图评价(27)",
+                "type": 1,
+                "isSelected": 0,
+                "ID": 5
+            },
+            {
+                "content": "味道赞(23)",
+                "type": 2,
+                "isSelected": 0,
+                "ID": 75
+            },
+            {
+                "content": "服务好(5)",
+                "type": 2,
+                "isSelected": 0,
+                "ID": 39
+            },
+            {
+                "content": "满意(3)",
+                "type": 2,
+                "isSelected": 0,
+                "ID": 34
+            }
+        ]
+    },
+    "code": 0,
+    "msg": "成功"
+}

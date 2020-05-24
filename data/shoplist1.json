@@ -1,0 +1,612 @@
+{
+    "data": {
+        "poiTotalNum": 0,
+        "poiHasNextPage": true,
+        "nextStartIndex": 1,
+        "shopList": [
+            {
+                "mtWmPoiId": "933593952249208",
+                "shopName": "肯德基宅急送（天长天正店）",
+                "wmPoiScore": 48,
+                "monthSalesTip": "月售&#xe7d7;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p1.meituan.net/xianfu/33c48a92a31a21e4bf32d3aa7c1c5c0d16649.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 0,
+                "minPriceTip": "起送 ¥&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf473;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xf893;&#xf4bc;&#xf893;m",
+                "averagePriceTip": "人均 ¥&#xf893;&#xf331;",
+                "discounts2": [
+                    {
+                        "info": "满&#xf893;&#xf4bc;减&#xf879;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    },
+                    {
+                        "info": "折扣商品&#xf84a;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    },
+                    {
+                        "info": "部分商品第二份半价",
+                        "iconUrl": "http://p1.meituan.net/activityconfig/a93697f681f75300143533b3eb72800b772.png",
+                        "promotionType": 2,
+                        "activityId": 20
+                    },
+                    {
+                        "info": "本店支持开发票，开票金额&#xf4bc;元起",
+                        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                        "promotionType": 2,
+                        "activityId": -2
+                    }
+                ],
+                "address": "安徽省天长市新河南路10号",
+                "shipping_time": "00:00-04:00,05:45-23:59"
+            },
+            {
+                "mtWmPoiId": "938442970329739",
+                "shopName": "老乡鸡（天长天康购物广场店）",
+                "wmPoiScore": 47,
+                "monthSalesTip": "月售&#xe09e;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p0.meituan.net/waimaipoi/5a0c39ba812392eab562162f1d097684276504.png",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xe3ab;.&#xf84a;km",
+                "averagePriceTip": "人均 ¥&#xf331;&#xf879;",
+                "discounts2": [
+                    {
+                        "info": "折扣商品&#xe7d7;.&#xe7d7;&#xe09e;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    },
+                    {
+                        "info": "本店支持开发票，开票金额&#xf4bc;元起",
+                        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                        "promotionType": 2,
+                        "activityId": -2
+                    }
+                ],
+                "address": "天长市天康大道天康购物广场一层106#（天发广场）",
+                "shipping_time": "00:00-02:00,06:30-23:59"
+            },
+            {
+                "mtWmPoiId": "1091820547459931",
+                "shopName": "傻子焦土菜烧烤",
+                "wmPoiScore": 44,
+                "monthSalesTip": "月售&#xe3ab;&#xf4bc;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p1.meituan.net/waimaipoi/b3581c1395cdb5ea944f83c84e6489cf239616.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf893;&#xf331;分钟",
+                "deliveryType": 0,
+                "minPriceTip": "起送 ¥&#xf331;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf84a;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xf77a;.&#xf84a;km",
+                "averagePriceTip": "人均 ¥&#xf77a;&#xf879;",
+                "discounts2": [
+                    {
+                        "info": "满&#xe09e;减&#xf84a;;满&#xf77a;&#xe09e;减&#xe3ab;&#xf77a;;满&#xf879;&#xe09e;减&#xf331;&#xf4bc;;满&#xf473;&#xe09e;减&#xf331;&#xe09e;;满&#xe3ab;&#xf331;&#xe09e;减&#xf77a;&#xe09e;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    },
+                    {
+                        "info": "折扣商品&#xf77a;.&#xf893;&#xf84a;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    }
+                ],
+                "address": "长泰国际公寓9栋167",
+                "shipping_time": "00:00-04:00,12:00-23:59"
+            },
+            {
+                "mtWmPoiId": "866270339894962",
+                "shopName": "董记私房菜（凤鸣小区店）",
+                "wmPoiScore": 44,
+                "monthSalesTip": "月售&#xf473;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p0.meituan.net/business/9157d8cc41ef32743c76752e691ba2b543252.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf84a;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xf331;.&#xf879;km",
+                "averagePriceTip": "人均 ¥&#xf331;&#xf331;",
+                "discounts2": [
+                    {
+                        "info": "满&#xf331;&#xf4bc;减&#xe3ab;&#xf4bc;;满&#xf893;&#xf4bc;减&#xf331;&#xf4bc;;满&#xf879;&#xf4bc;减&#xf77a;&#xf4bc;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    },
+                    {
+                        "info": "折扣商品&#xe7d7;.&#xf84a;&#xe09e;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    },
+                    {
+                        "info": "实际支付&#xf331;&#xf84a;元返&#xf84a;元商家代金券",
+                        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+                        "promotionType": 2,
+                        "activityId": 100
+                    }
+                ],
+                "address": "天长市天长街道二凤三桥组1幢-1（南片）（凤鸣超市东20米）",
+                "shipping_time": "09:23-23:59"
+            },
+            {
+                "mtWmPoiId": "1050683350698319",
+                "shopName": "谷小稻•精致简餐（现煮现炒）",
+                "wmPoiScore": 45,
+                "monthSalesTip": "月售&#xe3ab;&#xf4bc;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p1.meituan.net/waimaipoi/ebdd374ada6c7e2cf60c97bedd5afddc30581.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xe09e;&#xe7d7;&#xf473;m",
+                "averagePriceTip": "人均 ¥&#xe3ab;&#xe09e;",
+                "discounts2": [
+                    {
+                        "info": "满&#xf331;&#xf4bc;减&#xe3ab;&#xf4bc;;满&#xf893;&#xf4bc;减&#xf331;&#xf4bc;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    },
+                    {
+                        "info": "折扣商品&#xe09e;.&#xf84a;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    }
+                ],
+                "address": "天长市千秋印象唐城7幢1单元114号房",
+                "shipping_time": "00:00-02:00,10:00-23:59"
+            },
+            {
+                "mtWmPoiId": "910499913086459",
+                "shopName": "华莱士·全鸡汉堡（仁和店）",
+                "wmPoiScore": 47,
+                "monthSalesTip": "月售&#xe3ab;&#xf4bc;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p1.meituan.net/waimaipoi/adf54581bba7095a1c166481eba4245a42920.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xf331;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xe3ab;.&#xe7d7;km",
+                "averagePriceTip": "人均 ¥&#xf331;&#xf77a;",
+                "discounts2": [
+                    {
+                        "info": "满&#xf331;&#xf77a;减&#xe3ab;&#xe3ab;;满&#xf893;&#xf84a;减&#xf331;&#xe3ab;;满&#xf84a;&#xf879;减&#xf331;&#xf879;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    },
+                    {
+                        "info": "折扣商品&#xe3ab;.&#xf4bc;&#xe3ab;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    },
+                    {
+                        "info": "本店支持开发票，开票金额&#xf4bc;元起",
+                        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                        "promotionType": 2,
+                        "activityId": -2
+                    }
+                ],
+                "address": "安徽省天长市仁和南路东侧汽车运输公司综合楼门面",
+                "shipping_time": "08:30-23:50"
+            },
+            {
+                "mtWmPoiId": "1103558693059150",
+                "shopName": "CoCo都可（天长仁和）",
+                "wmPoiScore": 48,
+                "monthSalesTip": "月售&#xe09e;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p0.meituan.net/waimaipoi/ed31c20e4fc3fb2a8ad99449354a6c3122344.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xf331;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xe3ab;.&#xe7d7;km",
+                "averagePriceTip": "",
+                "discounts2": [
+                    {
+                        "info": "本店支持开发票，开票金额&#xf4bc;元起",
+                        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                        "promotionType": 2,
+                        "activityId": -2
+                    }
+                ],
+                "address": "安徽省滁州市天长市仁和路天正超市一楼大门南侧第一间",
+                "shipping_time": "10:00-22:30"
+            },
+            {
+                "mtWmPoiId": "1030960860870507",
+                "shopName": "虾神来啦（三桥路店）",
+                "wmPoiScore": 43,
+                "monthSalesTip": "月售&#xe7d7;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p0.meituan.net/waimaipoi/a3f165d9e5b230154036ddc19c666c79185953.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xf77a;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xf331;.&#xe3ab;km",
+                "averagePriceTip": "",
+                "discounts2": [
+                    {
+                        "info": "满&#xf473;&#xf4bc;减&#xf893;&#xf4bc;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    }
+                ],
+                "address": "天康大道南侧广厦花园1栋106",
+                "shipping_time": "00:00-02:00,16:00-23:59"
+            },
+            {
+                "mtWmPoiId": "1101879360871753",
+                "shopName": "麦当劳麦乐送（滁州天长天康大道店）",
+                "wmPoiScore": 50,
+                "monthSalesTip": "月售&#xf331;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p1.meituan.net/xianfu/aa86bc1b9a218ea5e094b861c03b59b94873.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf77a;分钟",
+                "deliveryType": 0,
+                "minPriceTip": "起送 ¥&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf473;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xe3ab;.&#xe09e;km",
+                "averagePriceTip": "人均 ¥&#xf893;&#xe09e;",
+                "discounts2": [
+                    {
+                        "info": "折扣商品&#xf84a;.&#xe09e;&#xe7d7;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    },
+                    {
+                        "info": "本店支持开发票，开票金额&#xf4bc;元起",
+                        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                        "promotionType": 2,
+                        "activityId": -2
+                    }
+                ],
+                "address": "安徽省滁州市天长市新河路与天康大道交叉口东北角，天发广场苏果超市一层",
+                "shipping_time": "08:00-10:15,10:30-22:00"
+            },
+            {
+                "mtWmPoiId": "1113810780028676",
+                "shopName": "秦家小厨",
+                "wmPoiScore": 50,
+                "monthSalesTip": "月售&#xe3ab;&#xe7d7;",
+                "picUrl": "http://p0.meituan.net/waimaipoi/01e3b84d8509a38b443b305ec15fae52235520.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf331;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf84a;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xe3ab;.&#xf879;km",
+                "averagePriceTip": "",
+                "discounts2": [
+                    {
+                        "info": "满&#xf331;&#xf4bc;减&#xe09e;;满&#xf893;&#xf4bc;减&#xe3ab;&#xf879;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    }
+                ],
+                "address": "东外街道建设东路城关商住楼123",
+                "shipping_time": "10:00-21:30"
+            },
+            {
+                "mtWmPoiId": "941011360758610",
+                "shopName": "老乡鸡（天长平安中路苏果店）",
+                "wmPoiScore": 44,
+                "monthSalesTip": "月售&#xf473;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p0.meituan.net/waimaipoi/5a0c39ba812392eab562162f1d097684276504.png",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xf331;.&#xf77a;km",
+                "averagePriceTip": "人均 ¥&#xf331;&#xe7d7;",
+                "discounts2": [
+                    {
+                        "info": "折扣商品&#xe7d7;.&#xe7d7;&#xe09e;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    },
+                    {
+                        "info": "本店支持开发票，开票金额&#xf4bc;元起",
+                        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                        "promotionType": 2,
+                        "activityId": -2
+                    }
+                ],
+                "address": "安徽省滁州市天长市平安中路（苏果超市一期）",
+                "shipping_time": "00:00-02:00,06:30-23:59"
+            },
+            {
+                "mtWmPoiId": "1037570815543710",
+                "shopName": "傲子酸菜鱼（龙虾）",
+                "wmPoiScore": 49,
+                "monthSalesTip": "月售&#xf893;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p0.meituan.net/waimaipoi/50f9d20cf5c72ec9673677f7cc9ed3b7159744.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xf331;.&#xe7d7;km",
+                "averagePriceTip": "人均 ¥&#xf77a;&#xf473;",
+                "discounts2": [
+                    {
+                        "info": "满&#xe3ab;减&#xe3ab;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    }
+                ],
+                "address": "天长市同心路伟业美食广场7#(南片)",
+                "shipping_time": "09:59-22:01"
+            },
+            {
+                "mtWmPoiId": "1006763015135306",
+                "shopName": "绿缘土菜馆(天长店）",
+                "wmPoiScore": 46,
+                "monthSalesTip": "月售&#xf473;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p1.meituan.net/waimaipoi/3de67a79a2107c604c631f721060a588229240.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xf77a;.&#xf4bc;km",
+                "averagePriceTip": "人均 ¥&#xf331;&#xe3ab;",
+                "discounts2": [
+                    {
+                        "info": "满&#xf331;&#xf4bc;减&#xe3ab;&#xf4bc;;满&#xf893;&#xf4bc;减&#xf331;&#xf4bc;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    },
+                    {
+                        "info": "折扣商品&#xe3ab;.&#xf879;&#xe7d7;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    }
+                ],
+                "address": "同心路同心北苑202栋yu18",
+                "shipping_time": "00:00-02:30,09:00-23:59"
+            },
+            {
+                "mtWmPoiId": "942175296888542",
+                "shopName": "杨记黄焖鸡米饭",
+                "wmPoiScore": 47,
+                "monthSalesTip": "月售&#xf879;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p1.meituan.net/business/be1782d1a7891cf4616498cb3ddd3b4a665600.png",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf893;&#xf331;分钟",
+                "deliveryType": 0,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf84a;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xf77a;.&#xf4bc;km",
+                "averagePriceTip": "人均 ¥&#xf331;&#xf893;",
+                "discounts2": [
+                    {
+                        "info": "满&#xf331;&#xf879;减&#xe3ab;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    },
+                    {
+                        "info": "折扣商品&#xe3ab;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    },
+                    {
+                        "info": "实际支付&#xe3ab;&#xf84a;元返&#xf77a;元商家代金券",
+                        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+                        "promotionType": 2,
+                        "activityId": 100
+                    }
+                ],
+                "address": "天长市南市区广陵路恒逸花园8号门面",
+                "shipping_time": "09:55-14:00,15:59-21:00"
+            },
+            {
+                "mtWmPoiId": "1028083232770032",
+                "shopName": "绝味鸭脖(仁和路店)",
+                "wmPoiScore": 44,
+                "monthSalesTip": "月售&#xf77a;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p1.meituan.net/xianfu/762326e7d198432b2378f941c782e2d2121269.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xf331;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xe3ab;.&#xe09e;km",
+                "averagePriceTip": "人均 ¥&#xf893;&#xf4bc;",
+                "address": "安徽省天长市仁和路肉厂东大门北向南第七间(台湾佳米）对面",
+                "shipping_time": "09:30-23:00"
+            },
+            {
+                "mtWmPoiId": "1019373039059238",
+                "shopName": "鲁枝儿老成都炸货铺（天长店）",
+                "wmPoiScore": 48,
+                "monthSalesTip": "月售&#xe7d7;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p0.meituan.net/business/1cfa14a4cc0819da3600faefb551bf61161876.png",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xe3ab;.&#xf4bc;km",
+                "averagePriceTip": "人均 ¥&#xe3ab;&#xf84a;",
+                "discounts2": [
+                    {
+                        "info": "满&#xf331;&#xf4bc;减&#xe3ab;&#xf331;;满&#xf893;&#xf4bc;减&#xf331;&#xf84a;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    },
+                    {
+                        "info": "折扣商品&#xe09e;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    }
+                ],
+                "address": "二凤路东侧建设路南侧千秋印象唐城7栋109室",
+                "shipping_time": "00:00-02:00,15:00-23:59"
+            },
+            {
+                "mtWmPoiId": "917165702349915",
+                "shopName": "华莱士·全鸡汉堡（滁州同心路店）",
+                "wmPoiScore": 47,
+                "monthSalesTip": "月售&#xe3ab;&#xf4bc;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p1.meituan.net/waimaipoi/adf54581bba7095a1c166481eba4245a42920.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf84a;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xf331;.&#xf879;km",
+                "averagePriceTip": "人均 ¥&#xf331;&#xf4bc;",
+                "discounts2": [
+                    {
+                        "info": "满&#xe09e;减&#xe09e;;满&#xf331;&#xf879;减&#xe3ab;&#xe7d7;;满&#xf893;&#xf4bc;减&#xf331;&#xf893;;满&#xf879;&#xf84a;减&#xf77a;&#xf473;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    },
+                    {
+                        "info": "折扣商品&#xf893;.&#xf879;&#xf473;折起",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                        "promotionType": 2,
+                        "activityId": 17
+                    },
+                    {
+                        "info": "领&#xf331;元券;领&#xf77a;元券;领&#xf893;元券",
+                        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+                        "promotionType": 2,
+                        "activityId": 103
+                    },
+                    {
+                        "info": "下单即赠五星好评返&#xe3ab;元代金券",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+                        "promotionType": 2,
+                        "activityId": 5
+                    },
+                    {
+                        "info": "本店支持开发票，开票金额&#xf4bc;元起",
+                        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                        "promotionType": 2,
+                        "activityId": -2
+                    }
+                ],
+                "address": "天长市同心路世贸家园26号门面",
+                "shipping_time": "00:00-01:55,08:20-23:55"
+            },
+            {
+                "mtWmPoiId": "1023702366102334",
+                "shopName": "大牌冒菜（天发店）",
+                "wmPoiScore": 44,
+                "monthSalesTip": "月售&#xe09e;&#xf4bc;&#xf4bc;+",
+                "picUrl": "http://p0.meituan.net/waimaipoi/640d383803af0c8ba3846beb017d744a19294.jpg",
+                "poiTypeIcon": "",
+                "deliveryTimeTip": "&#xf77a;&#xf4bc;分钟",
+                "deliveryType": 1,
+                "minPriceTip": "起送 ¥&#xe3ab;&#xf4bc;",
+                "shippingFeeTip": "配送 ¥&#xf893;",
+                "origin_shipping_fee_tip": "",
+                "status": 1,
+                "statusDesc": "",
+                "distance": "&#xe3ab;.&#xe09e;km",
+                "averagePriceTip": "人均 ¥&#xf331;&#xf893;",
+                "discounts2": [
+                    {
+                        "info": "满&#xf77a;减&#xf77a;;满&#xf331;&#xf84a;减&#xf84a;;满&#xf893;&#xf4bc;减&#xe3ab;&#xf331;",
+                        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                        "promotionType": 2,
+                        "activityId": 2
+                    }
+                ],
+                "address": "天长市天发广场6#房楼一层6-1114",
+                "shipping_time": "10:00-21:00"
+            }
+        ],
+        "judasData": {
+            "rankTraceId": "4851AC380808C6F7B0ADECF8C4D5660D"
+        }
+    },
+    "code": 0,
+    "msg": "成功"
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "kingkongList": [
+      {
+        "cateId": 910,
+        "icon": "http://p1.meituan.net/jungle/8b5e1702d4145ccf058ba5fb31008c5310912.png",
+        "name": "美食"
+      },
+      {
+        "cateId": 101574,
+        "icon": "http://p0.meituan.net/jungle/45ff2f098a20a77122bff8385192f0ec10547.png",
+        "name": "美团超市"
+      },
+      {
+        "cateId": 101578,
+        "icon": "http://p1.meituan.net/jungle/12a9834827909fa55f54bce96e67470711250.png",
+        "name": "生鲜果蔬"
+      },
+      {
+        "cateId": 960,
+        "icon": "http://p1.meituan.net/jungle/da9181f93dd2e11c5d74cf685470408f10016.png",
+        "name": "美团专送"
+      },
+      {
+        "cateId": 101181,
+        "icon": "http://p1.meituan.net/jungle/39edab4073ecc494fdb175854fa64eaa9507.png",
+        "name": "跑腿代购"
+      },
+      {
+        "cateId": 940,
+        "icon": "http://p1.meituan.net/jungle/a2a306c5467aba7fac8d7410d161f8db9364.png",
+        "name": "下午茶"
+      },
+      {
+        "cateId": 100062,
+        "icon": "http://p0.meituan.net/jungle/58b60a312cf86f3a3afc4c96ff0e53438774.png",
+        "name": "汉堡披萨"
+      },
+      {
+        "cateId": 100180,
+        "icon": "http://p0.meituan.net/jungle/2ec76f8f4f21a4ec163adc7fccfa1a399428.png",
+        "name": "小吃馆"
+      },
+      {
+        "cateId": 100209,
+        "icon": "http://p0.meituan.net/jungle/2eee7747fd143249b100b9fa5ee5e31d9873.png",
+        "name": "家常菜"
+      },
+      {
+        "cateId": 23,
+        "icon": "http://p1.meituan.net/jungle/dfd03fd91f640682c16179ba85837f739679.png",
+        "name": "鲜花蛋糕"
+      },
+      {
+        "cateId": 101502,
+        "icon": "http://p1.meituan.net/jungle/99fb0a3687a7ad570d015ec081ff396a9989.png",
+        "name": "品牌连锁"
+      },
+      {
+        "cateId": 100321,
+        "icon": "http://p0.meituan.net/jungle/06e382720a8501fd9e2c8242ff39f5119391.png",
+        "name": "异国料理"
+      },
+      {
+        "cateId": 100526,
+        "icon": "http://p1.meituan.net/jungle/73cb2e0a3cd157352d928c5df821ca0710009.png",
+        "name": "无辣不欢"
+      },
+      {
+        "cateId": 100199,
+        "icon": "http://p0.meituan.net/jungle/de03d208665e43949db1a4126212ca9f9418.png",
+        "name": "暖胃粉面"
+      },
+      {
+        "cateId": 100252,
+        "icon": "http://p0.meituan.net/jungle/0ce9a33a4accc536ac9e2d8d91951c924673.png",
+        "name": "炸鸡零食"
+      },
+      {
+        "cateId": 100590,
+        "icon": "http://p0.meituan.net/jungle/194860655986a852e343dcb9dffefbd39670.png",
+        "name": "包子粥铺"
+      },
+      {
+        "cateId": 100191,
+        "icon": "http://p1.meituan.net/jungle/06dd49ea356f2094a89f7eceff9fdd029160.png",
+        "name": "能量西餐"
+      },
+      {
+        "cateId": 100493,
+        "icon": "http://p1.meituan.net/jungle/1e28e7f84ac8a852b3a83e43c0ef40089522.png",
+        "name": "饺子馆"
+      },
+      {
+        "cateId": 22,
+        "icon": "http://p1.meituan.net/jungle/f26c34269ac5dfb152867dcf75719f983422.png",
+        "name": "送药上门"
+      },
+      {
+        "cateId": 100325,
+        "icon": "http://p1.meituan.net/jungle/83bfbcf07221cb1ccbcd9114e81ec7ac9209.png",
+        "name": "快食简餐"
+      }
+    ]
+  },
+  "code": 0,
+  "msg": "成功"
+}
