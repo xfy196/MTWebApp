@@ -16,6 +16,58 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 ;
 
 (function () {
+  var userPicUrl = "https://s3plus.sankuai.com/v1/mss_00c90c47614241978d32cca9bc6e44a4/h5i/userpic_defalut.c741e924.png";
+  var commentsTemplate = "\n    <div class=\"score-wrap\">\n        <div class=\"score\">\n            <span>{{shopScore}}</span>\n            <div>\u5546\u5BB6\u8BC4\u5206</div>\n        </div>\n        <div class=\"stars\">\n            <div class=\"flavor-stars\">\n                <span class=\"f-txt\">\u53E3\u5473</span>\n                <div class=\"f-star\">\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                </div>\n                <span class=\"f-score\">{{qualityScore}}</span>\n            </div>\n            <div class=\"packing-stars\">\n                <span class=\"p-txt\">\u5305\u88C5</span>\n                <div class=\"p-star\">\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                </div>\n                <span class=\"f-score\">{{packScore}}</span>\n            </div>\n        </div>\n        <div class=\"distribution-score\">\n            <span class=\"d-score\">{{deliveryScore}}</span>\n            <span class=\"d-txt\">\u914D\u9001\u8BC4\u5206</span>\n        </div>\n    </div>\n    <div class=\"c-cate border-bottom\">\n        {{commentCates}}\n    </div>\n    <div class=\"c-content\">\n        <ul class=\"comment-list\">\n            {{commentList}}\n        </ul>\n    </div>\n    ";
+  var commentCatesTemplate = "\n    <span class=\"{{isSelected}} border\">{{content}}</span>\n    ";
+  var commentListTemplate = "\n    <li class=\"c-item border-bottom\">\n        <div class=\"u-pic\">\n            <img src=\"{{userPicUrl}}\"\n                alt=\"\">\n        </div>\n        <div class=\"c-info\">\n            <div class=\"nickname-time\">\n                <span class=\"nickname\">{{userName}}</span>\n                <span class=\"time\">{{commentTime}}</span>\n            </div>\n            <div class=\"arrival-time\">{{deliveryTime}}</div>\n            <div class=\"c-txt\">{{content}}</div>\n            <div class=\"order-type\">\n                <i class=\"f-icon\"></i>\n                <span class=\"o-type\">{{praiseDish}}</span>\n            </div>\n        </div>\n    </li>\n    ";
+
+  function requestData() {
+    new Promise(function (resolve, reject) {
+      $.ajax({
+        url: DETAIL_COMMENT_URL,
+        method: "get",
+        dataType: "json",
+        success: function success(data) {
+          console.log(data);
+          handleCommentData(data.data);
+        },
+        error: function error(_error) {
+          reject(_error);
+        }
+      });
+    }).then(function (data) {
+      console.log(data);
+    })["catch"](function (error) {});
+  }
+  /**
+   * 处理评论的数据的函数
+   * @param {*} data 
+   */
+
+
+  function handleCommentData(data) {
+    var commentCatesHTML = "";
+    data.commentLabels.forEach(function (item) {
+      commentCatesHTML += commentCatesTemplate.replace(/{{isSelected}}/, item.isSelected === 1 ? "active" : "").replace(/{{content}}/, item.content);
+    });
+    var commentListHTML = "";
+    data.list.forEach(function (item) {
+      commentListHTML += commentListTemplate.replace(/{{userPicUrl}}/, item.userPicUrl === "" ? userPicUrl : item.userPicUrl).replace(/{{userName}}/, item.userName).replace(/{{commentTime}}/, item.commentTime).replace(/{{deliveryTime}}/, item.deliveryTime).replace(/{{content}}/, item.content).replace(/{{praiseDish}}/, item.praiseDish);
+    });
+    var commentsHTML = commentsTemplate.replace(/{{shopScore}}/, data.shopScore).replace(/{{qualityScore}}/, data.qualityScore).replace(/{{packScore}}/, data.packScore).replace(/{{deliveryScore}}/, data.deliveryScore).replace(/{{commentCates}}/, commentCatesHTML).replace(/{{commentList}}/, commentListHTML);
+    $(".comments").html(commentsHTML);
+  } // 订阅评论数据请求完成
+
+
+  PubSub.subscribe("commentRequest", function () {
+    requestData();
+  });
+})();
+
+;
+;
+
+(function () {
   var carListTemplate = "\n    <li class=\"c-item border-bottom\">\n        <div class=\"s-name-price\">\n            <div class=\"c-l-info\">\n                <span class=\"i-name\">{{shopName}}</span>\n                <span class=\"i-unit\">{{unit}}</span>\n            </div>\n            <div class=\"c-price\">\xA5{{price}}</div>\n        </div>\n        <div class=\"c-price-operation\">\n            <span class=\"o-sub o-btn\"></span>\n            <span>{{num}}</span>\n            <span class=\"o-add o-btn\"></span>\n        </div>\n    </li>\n    ";
   /**
    * 切换tab选项卡的函数
@@ -158,6 +210,9 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
       $(".isDeliveryTitle").hide();
     });
+    $("#settlementBtn").on("click", function () {
+      location.href = "../views/settlement.html";
+    });
   }
   /**
    * 同步购物车中的数据的
@@ -205,6 +260,10 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
       hasShopDom.hide().siblings(".show-car").show();
     }
   }
+  /**
+   * 渲染购物车列表数据
+   */
+
 
   function renderCarList() {
     var carListHTML = "";
@@ -225,58 +284,6 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
     contentScroll();
   });
   switchTab();
-})();
-
-;
-;
-
-(function () {
-  var userPicUrl = "https://s3plus.sankuai.com/v1/mss_00c90c47614241978d32cca9bc6e44a4/h5i/userpic_defalut.c741e924.png";
-  var commentsTemplate = "\n    <div class=\"score-wrap\">\n        <div class=\"score\">\n            <span>{{shopScore}}</span>\n            <div>\u5546\u5BB6\u8BC4\u5206</div>\n        </div>\n        <div class=\"stars\">\n            <div class=\"flavor-stars\">\n                <span class=\"f-txt\">\u53E3\u5473</span>\n                <div class=\"f-star\">\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                </div>\n                <span class=\"f-score\">{{qualityScore}}</span>\n            </div>\n            <div class=\"packing-stars\">\n                <span class=\"p-txt\">\u5305\u88C5</span>\n                <div class=\"p-star\">\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                    <i class=\"star-icon\"></i>\n                </div>\n                <span class=\"f-score\">{{packScore}}</span>\n            </div>\n        </div>\n        <div class=\"distribution-score\">\n            <span class=\"d-score\">{{deliveryScore}}</span>\n            <span class=\"d-txt\">\u914D\u9001\u8BC4\u5206</span>\n        </div>\n    </div>\n    <div class=\"c-cate border-bottom\">\n        {{commentCates}}\n    </div>\n    <div class=\"c-content\">\n        <ul class=\"comment-list\">\n            {{commentList}}\n        </ul>\n    </div>\n    ";
-  var commentCatesTemplate = "\n    <span class=\"{{isSelected}} border\">{{content}}</span>\n    ";
-  var commentListTemplate = "\n    <li class=\"c-item border-bottom\">\n        <div class=\"u-pic\">\n            <img src=\"{{userPicUrl}}\"\n                alt=\"\">\n        </div>\n        <div class=\"c-info\">\n            <div class=\"nickname-time\">\n                <span class=\"nickname\">{{userName}}</span>\n                <span class=\"time\">{{commentTime}}</span>\n            </div>\n            <div class=\"arrival-time\">{{deliveryTime}}</div>\n            <div class=\"c-txt\">{{content}}</div>\n            <div class=\"order-type\">\n                <i class=\"f-icon\"></i>\n                <span class=\"o-type\">{{praiseDish}}</span>\n            </div>\n        </div>\n    </li>\n    ";
-
-  function requestData() {
-    new Promise(function (resolve, reject) {
-      $.ajax({
-        url: DETAIL_COMMENT_URL,
-        method: "get",
-        dataType: "json",
-        success: function success(data) {
-          console.log(data);
-          handleCommentData(data.data);
-        },
-        error: function error(_error) {
-          reject(_error);
-        }
-      });
-    }).then(function (data) {
-      console.log(data);
-    })["catch"](function (error) {});
-  }
-  /**
-   * 处理评论的数据的函数
-   * @param {*} data 
-   */
-
-
-  function handleCommentData(data) {
-    var commentCatesHTML = "";
-    data.commentLabels.forEach(function (item) {
-      commentCatesHTML += commentCatesTemplate.replace(/{{isSelected}}/, item.isSelected === 1 ? "active" : "").replace(/{{content}}/, item.content);
-    });
-    var commentListHTML = "";
-    data.list.forEach(function (item) {
-      commentListHTML += commentListTemplate.replace(/{{userPicUrl}}/, item.userPicUrl === "" ? userPicUrl : item.userPicUrl).replace(/{{userName}}/, item.userName).replace(/{{commentTime}}/, item.commentTime).replace(/{{deliveryTime}}/, item.deliveryTime).replace(/{{content}}/, item.content).replace(/{{praiseDish}}/, item.praiseDish);
-    });
-    var commentsHTML = commentsTemplate.replace(/{{shopScore}}/, data.shopScore).replace(/{{qualityScore}}/, data.qualityScore).replace(/{{packScore}}/, data.packScore).replace(/{{deliveryScore}}/, data.deliveryScore).replace(/{{commentCates}}/, commentCatesHTML).replace(/{{commentList}}/, commentListHTML);
-    $(".comments").html(commentsHTML);
-  } // 订阅评论数据请求完成
-
-
-  PubSub.subscribe("commentRequest", function () {
-    requestData();
-  });
 })();
 
 ;

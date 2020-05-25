@@ -156,6 +156,10 @@
             $(".show-car.hasShop").hide().siblings(".show-car").show();
             // 满足起送加状态隐藏
             $(".isDeliveryTitle").hide();
+        });
+
+        $("#settlementBtn").on("click", () => {
+            location.href = "../views/settlement.html";
         })
     }
 
@@ -198,6 +202,9 @@
         }
     }
 
+    /**
+     * 渲染购物车列表数据
+     */
     function renderCarList() {
         let carListHTML = "";
         let shopObjArr = localStorage.getItem("shopCars") === null ? {} : JSON.parse(localStorage.getItem("shopCars"));
@@ -208,6 +215,8 @@
         });
         $(".cars-list").html(carListHTML);
     }
+
+
     // 订阅功能等待页面数据加载完成之后执行这个函数
     PubSub.subscribe("contentScroll", () => {
         operationCar();

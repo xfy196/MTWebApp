@@ -43,5 +43,15 @@ module.exports = {
         js : [
             "./view/detail/**/*.js"
         ]
+    },
+    settlement : {
+        html : "./view/settlement/settlement.html",
+        css : [
+            "./view/settlement/**/*.css",
+            "./components/tabs/style.css"
+        ],
+        js : [
+            "./view/settlement/**/*.js"
+        ]
     }
 }
