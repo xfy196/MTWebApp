@@ -16,6 +16,11 @@
         </div>
     </li>
     `;
+
+    // 商品数据
+    let shopObjArr = null;
+
+    let totalPrice = 0;
     /**
      * 切换tab选项卡的函数
      */
@@ -124,7 +129,6 @@
             let tag = parent.attr("data-spuId");
             let unit = parent.find(".p-num").text().slice(1);
             let obj = {};
-            console.log(num);
             obj.shopName = shopName;
             obj.num = num;
             obj.shopPic = shopPic;
@@ -159,6 +163,13 @@
         });
 
         $("#settlementBtn").on("click", () => {
+            let orderObj = localStorage.getItem("order") ? JSON.parse(localStorage.getItem("order")) : {};
+
+            orderObj.totalPrice = totalPrice;
+            orderObj.shopList = shopObjArr;
+            localStorage.setItem("order", JSON.stringify(orderObj));
+            // 发布订阅者的函数
+            PubSub.publish("settlementFn");
             location.href = "../views/settlement.html";
         })
     }
@@ -170,9 +181,8 @@
      * @param {*} obj 
      */
     function syncCarData(tag = 0, obj = {}) {
-        let shopObjArr = localStorage.getItem("shopCars") === null ? {} : JSON.parse(localStorage.getItem("shopCars"));
+        shopObjArr = localStorage.getItem("shopCars") === null ? {} : JSON.parse(localStorage.getItem("shopCars"));
 
-        console.log(shopObjArr);
         if (obj.num === 0) {
             delete shopObjArr[tag];
         } else {
@@ -183,12 +193,12 @@
         // 说明购物车中有数据我们需要改变底部的购物车样式
         let hasShopDom = $(".show-car.hasShop");
         if (Object.keys(shopObjArr).length !== 0) {
-            let totalPrice = 0;
             let discountPrice = 0;
             // 计算商品的总价格
             Object.entries(shopObjArr).forEach(([key, val]) => {
                 totalPrice += val.num * val.price;
             });
+            totalPrice = parseFloat(totalPrice).toFixed(1);
             discountPrice = parseFloat(totalPrice * 0.8).toFixed(1);
             hasShopDom.show().siblings(".show-car").hide();
             $(".isDeliveryTitle").show();

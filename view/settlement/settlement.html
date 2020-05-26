@@ -46,18 +46,9 @@
                     <span class="shopName">肯德基宅急送（千秋时代店）</span>
                     <span class="d-type"></span>
                 </div>
+                <!-- 商品列表 -->
                 <div class="orderShops">
-                    <div class="o-s-item">
-                        <img src="https://p0.meituan.net/xianfu/4c990745f5bc3d4a2087852ac1ca7eff59392.jpg" alt="">
-                        <div class="i-shop">
-                            <div class="s-name-price">
-                                <span class="s-name">葡式蛋挞(经典)1只T</span>
-                                <span class="s-price">¥8.5</span>
-                            </div>
-                            <div class="s-unit"><span>份</span></div>
-                            <div class="s-num">x1</div>
-                        </div>
-                    </div>
+                    
                 </div>
                 <!-- 价格详情 -->
                 <div class="priceDetail">
@@ -76,8 +67,51 @@
                 </div>
             </div>
         </div>
-    </div>
+        <div class="other-option">
+            <div class="pay-method">
+                <span>支付方式</span>
+                <span>在线支付</span>
+            </div>
+            <div class="table-num border-top">
+                <span>餐具数量</span>
+                <div class="r-info">
+                    <span>选“无需餐具”，能量+10</span>
+                    <span>未选择</span>
+                </div>
 
+            </div>
+            <div class="remarks border-top">
+                <span>备注</span>
+                <span>口味、偏好等要求</span>
+            </div>
+            <div class="invoice border-top">
+                <span>发票</span>
+                <input type="checkbox">
+            </div>
+            
+            <div class="invoice-input" style="display: none;">
+                <div class="border-top"><input type="text" placeholder="请填写个人或公司名称" autocomplete="false" autofocus="false"></div>
+                <div class="border-top"><input type="text" placeholder="请填写纳税人识别号(选填)" autocomplete="false" autofocus="false"></div>
+            </div>
+            
+        </div>
+        
+        <div class="rule-tips">
+            <span></span>
+            <span>不清楚优惠规则?</span>
+        </div>
+
+        <!-- 底部提交订单支付 -->
+        <div class="place-order">
+            <div class="totalPrice">
+                <span class="txt">合计</span><i>¥25.0</i>
+            </div>
+            <button type="button" class="submit">提交订单</button>
+        </div>
+    </div>
+    <script src="../lib/pubsub.js"></script>
+    <script src="../lib/zepto.js"></script>
+    <script src="../js/settlement.js"></script>
 </body>
 
 </html>

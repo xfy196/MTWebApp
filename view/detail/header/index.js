@@ -49,7 +49,7 @@
     `;
 
 
-   
+
     /**
      * 点击返回安牛逼返回上一页面的
      */
@@ -78,6 +78,11 @@
         }).then((data) => {
             handleHeaderDom(data.shopInfo);
             handleCategoriesDom(data.categoryList);
+            PubSub.subscribe("settlementFn", () => {
+                let orderObj = localStorage.getItem("order") ? JSON.parse(localStorage.getItem("order")) : {};
+                orderObj.shopInfo = data.shopInfo;
+                localStorage.setItem("order", JSON.stringify(orderObj));
+            })
 
         }).catch(error => {
             console.log(error);

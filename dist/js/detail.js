@@ -68,7 +68,10 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 ;
 
 (function () {
-  var carListTemplate = "\n    <li class=\"c-item border-bottom\">\n        <div class=\"s-name-price\">\n            <div class=\"c-l-info\">\n                <span class=\"i-name\">{{shopName}}</span>\n                <span class=\"i-unit\">{{unit}}</span>\n            </div>\n            <div class=\"c-price\">\xA5{{price}}</div>\n        </div>\n        <div class=\"c-price-operation\">\n            <span class=\"o-sub o-btn\"></span>\n            <span>{{num}}</span>\n            <span class=\"o-add o-btn\"></span>\n        </div>\n    </li>\n    ";
+  var carListTemplate = "\n    <li class=\"c-item border-bottom\">\n        <div class=\"s-name-price\">\n            <div class=\"c-l-info\">\n                <span class=\"i-name\">{{shopName}}</span>\n                <span class=\"i-unit\">{{unit}}</span>\n            </div>\n            <div class=\"c-price\">\xA5{{price}}</div>\n        </div>\n        <div class=\"c-price-operation\">\n            <span class=\"o-sub o-btn\"></span>\n            <span>{{num}}</span>\n            <span class=\"o-add o-btn\"></span>\n        </div>\n    </li>\n    "; // 商品数据
+
+  var shopObjArr = null;
+  var totalPrice = 0;
   /**
    * 切换tab选项卡的函数
    */
@@ -178,7 +181,6 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
       var tag = parent.attr("data-spuId");
       var unit = parent.find(".p-num").text().slice(1);
       var obj = {};
-      console.log(num);
       obj.shopName = shopName;
       obj.num = num;
       obj.shopPic = shopPic;
@@ -211,6 +213,12 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
       $(".isDeliveryTitle").hide();
     });
     $("#settlementBtn").on("click", function () {
+      var orderObj = localStorage.getItem("order") ? JSON.parse(localStorage.getItem("order")) : {};
+      orderObj.totalPrice = totalPrice;
+      orderObj.shopList = shopObjArr;
+      localStorage.setItem("order", JSON.stringify(orderObj)); // 发布订阅者的函数
+
+      PubSub.publish("settlementFn");
       location.href = "../views/settlement.html";
     });
   }
@@ -224,8 +232,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
   function syncCarData() {
     var tag = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 0;
     var obj = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {};
-    var shopObjArr = localStorage.getItem("shopCars") === null ? {} : JSON.parse(localStorage.getItem("shopCars"));
-    console.log(shopObjArr);
+    shopObjArr = localStorage.getItem("shopCars") === null ? {} : JSON.parse(localStorage.getItem("shopCars"));
 
     if (obj.num === 0) {
       delete shopObjArr[tag];
@@ -238,7 +245,6 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
     var hasShopDom = $(".show-car.hasShop");
 
     if (Object.keys(shopObjArr).length !== 0) {
-      var totalPrice = 0;
       var discountPrice = 0; // 计算商品的总价格
 
       Object.entries(shopObjArr).forEach(function (_ref) {
@@ -248,6 +254,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
         totalPrice += val.num * val.price;
       });
+      totalPrice = parseFloat(totalPrice).toFixed(1);
       discountPrice = parseFloat(totalPrice * 0.8).toFixed(1);
       hasShopDom.show().siblings(".show-car").hide();
       $(".isDeliveryTitle").show();
@@ -323,6 +330,11 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
     }).then(function (data) {
       handleHeaderDom(data.shopInfo);
       handleCategoriesDom(data.categoryList);
+      PubSub.subscribe("settlementFn", function () {
+        var orderObj = localStorage.getItem("order") ? JSON.parse(localStorage.getItem("order")) : {};
+        orderObj.shopInfo = data.shopInfo;
+        localStorage.setItem("order", JSON.stringify(orderObj));
+      });
     })["catch"](function (error) {
       console.log(error);
     })["finally"](function () {

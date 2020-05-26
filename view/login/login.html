@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录</title>
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/mine.css">
+</head>
+<body>
+    <div class="appLogo">
+        <img src="https://s3plus.meituan.net/v1/mss_e2821d7f0cfe4ac1bf9202ecf9590e67/cdn-prod/file:9096d347/7a5ff05b334e0debdd10954a7f5d4789.png" alt="">
+        <div class="appName">美团外卖</div>
+    </div>
+    <div id="loginComp">
+        <div class="loginWrapper">
+            <div class="telephone">
+                <input type="text" class="phone-num-input" placeholder="请输入手机号" id="phoneNumber" maxlength="11">
+                <div class="verify-code-text">
+                    <span id="sendVerify">发送验证码</span>
+                </div>
+                <!-- 后期错误验证用的 -->
+                <div></div>
+            </div>
+            <!-- 输入验证码的 -->
+            <div class="verify-code-wrapper">
+                <input type="text" id="codeInput" class="code-input" placeholder="请输入短信验证码" maxlength="6">
+            </div>
+            <div class="opbtn-wrapper">
+                <button type="button" id="loginBtn" class="login-btn">登录</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

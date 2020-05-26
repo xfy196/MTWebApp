@@ -1,0 +1,11 @@
+.main {
+    background: rgb(238, 238, 238);
+    min-height: 100vh;
+}
+.no-order {
+    background-color: #f0f0f0;
+    margin-top: 15vh;
+    background-size: cover;
+    text-align: center;
+    font-size: 12px;
+}
